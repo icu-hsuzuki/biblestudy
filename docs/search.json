@@ -21,6 +21,13 @@
     "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2"
   },
   {
+    "objectID": "tables.html#mark-titles",
+    "href": "tables.html#mark-titles",
+    "title": "3  Tables",
+    "section": "3.1 マルコによる福音書表題",
+    "text": "3.1 マルコによる福音書表題\n\n\n# A tibble: 98 × 5\n   マルコ  見出し                                   マタイ  ルカ    ヨハネ \n   <chr>   <chr>                                    <chr>   <chr>   <chr>  \n 1 1:1-8   洗礼者ヨハネ、悔い改めの洗礼を宣べ伝える 3:1-12  3:1-9   1:19-28\n 2 1:9-11  イエス、洗礼を受ける                     3:13-17 3:21-22 <NA>   \n 3 1:12-13 試みを受ける                             4:1-11  4:1-13  <NA>   \n 4 1:14-15 ガリラヤで宣教を始める                   4:12-17 4:14-15 <NA>   \n 5 4:16-20 四人の漁師を弟子にする                   4:18-22 5:1-11  <NA>   \n 6 1:21-28 汚れた霊に取りつかれた男を癒やす         <NA>    4:31-37 <NA>   \n 7 1:29-34 多くの病人を癒やす                       8:14-17 4:38-41 <NA>   \n 8 1:35-39 巡回して宣教する                         <NA>    4:42-44 <NA>   \n 9 1:40-45 規定の病を患っている人を清める           8:1-4   5:12-16 <NA>   \n10 2:1-12  体の麻痺した人を癒やす                   9:1-8   5:17-26 <NA>   \n# ℹ 88 more rows"
+  },
+  {
     "objectID": "references.html",
     "href": "references.html",
     "title": "References",

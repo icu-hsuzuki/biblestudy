@@ -9,6 +9,8 @@ library(tidyverse)
 
 ```{r}
 #| echo: false
+#| error: false
+#| warning: false
 marktable <- read_csv("data/marklist.csv") %>%
   select(c(1,2,3,5,7))
 marktable
