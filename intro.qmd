@@ -1,9 +1,3 @@
-# Introduction
+# はじめに {#introduction}
 
-This is a book created from markdown and executable code.
-
-See @knuth84 for additional discussion of literate programming.
-
-```{r}
-1 + 1
-```
+聖書を少しずつ読んでいきます。専門的に、研究するわけではありませんが、皆さんの声に、耳を傾けて、ていねいに読んでいくことができればと願っています。
