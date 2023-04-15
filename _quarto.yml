@@ -21,13 +21,11 @@ bibliography: references.bib
 format:
   html:
     theme: cosmo
-    toc: true
     number-sections: true
   pdf:
     pdf-engine: xelatex
     documentclass: bxjsreport #scrreprt
     classoption: xelatex, ja=standard
-    toc: true
     number-sections: true
     colorlinks: true
     include-in-header:
