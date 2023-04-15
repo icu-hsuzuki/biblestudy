@@ -1,7 +1,3 @@
-# Summary
+# まとめ
 
-In summary, this book has no content whatsoever.
-
-```{r}
-1 + 1
-```
+聖書のまなびはいかがですか。みなさんと、共に、学ぶことができる幸いを、心より感謝して。
