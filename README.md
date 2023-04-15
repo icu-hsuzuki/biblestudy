@@ -10,9 +10,11 @@
 
 3.  Edit files and add README.md
 
-4.  Commit with a message
+4.  Build: Render Book
 
-5.  In RStudio:Terminal
+5.  Commit with a message
+
+6.  In RStudio:Terminal
 
     ```         
     git remote add origin git@github.com:icu-hsuzuki/biblestudy.git
@@ -20,4 +22,6 @@
     git push -u origin main
     ```
 
-6.  At GitHub Setup, edit Pages
+7.  At GitHub Setup, edit Pages: Branch `main/docs`
+
+    -   Change About: Use your GitHub Pages Website
