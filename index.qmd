@@ -1,9 +1,7 @@
-# Preface {.unnumbered}
+# 聖書を一緒に読みませんか {#preface .unnumbered}
 
-This is a Quarto book.
+表題の名称で、案内を送り、我が家で開いている、聖書を読み、疑問をあげて考え、語り合い、分かち合い、聴く会のページです。
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+## 他の形式
 
-```{r}
-1 + 1
-```
+-   [PDF](https://icu-hsuzuki.github.io/biblestudy/聖書の学び.pdf)：全く同じように表示されているわけではありませんが、ネットに繋げなくても読むことができたり、印刷したい方のために作成しています。
