@@ -17,4 +17,4 @@ marktable <- read_csv("data/marklist.csv") %>%
 marktable
 ```
 
-[マルコによる福音書の表題](https://icu-hsuzuki.github.io/biblestudy/data/mark.pdf)
+[マルコによる福音書の表題](https://icu-hsuzuki.github.io/science/bible/docs/mark.pdf)
