@@ -2,7 +2,7 @@
 
 聖書を一緒に読みませんか？
 
-## First Setup
+## Setup
 
 1.  Create a quarto book in RStudio
 
