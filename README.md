@@ -19,3 +19,5 @@
     git branch -M main
     git push -u origin main
     ```
+
+6.  At GitHub Setup, edit Pages
