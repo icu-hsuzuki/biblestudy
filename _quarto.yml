@@ -1,0 +1,26 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "biblestudy"
+  author: "鈴木寛（Hiroshi Suzuki）"
+  date: today
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    pdf-engine: xelatex
+    documentclass: bxjsreport #scrreprt
+    classoption: xelatex, ja=standard
+
+editor: visual
+
