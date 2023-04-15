@@ -1,0 +1,15 @@
+# Tables
+
+## マルコによる福音書表題 {#mark-titles}
+
+```{r}
+#| include: false
+library(tidyverse)
+```
+
+```{r}
+#| echo: false
+marktable <- read_csv("data/marklist.csv") %>%
+  select(c(1,2,3,5,7))
+marktable
+```
