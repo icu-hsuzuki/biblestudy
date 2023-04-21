@@ -124,10 +124,24 @@ Wikipedia よりも、まとまっていて、読みやすく、本と比較す�
 
 ## 参考
 
--   [Fragments of Papias, by Ignatius of Antioch](https://ccel.org/ccel/ignatius_antioch/fragments_of_papias/anf01)
+> 英文がほとんどですが、ホームページ閲覧ソフト（Web Browser）の翻訳機能を使うことも可能ですし、[DeepL](https://www.deepl.com/ja/translator) のアプリで、ショートカットをオンにしておけば、Ctrl+C+C （Windows）や、Command+C+C（Mac）で、かなり正確な翻訳を読むことも可能です。
 
-    -   [Introductory Note to the Fragments of Papias](https://ccel.org/ccel/ignatius_antioch/fragments_of_papias/anf01.vii.i.html): VI にマルコによる福音書について書かれています。
+-   [Early Christian Writings](http://www.earlychristianwritings.com/)
 
-    -   [日本語サイト](http://web.kyoto-inet.or.jp/people/tiakio/urchristentum/papias.html)
+    -   [Psalms of Solomon](http://www.earlyjewishwritings.com/psalmssolomon.html)
 
-### 
+-   [Perseus Digital Library](https://www.perseus.tufts.edu/hopper/)（タフツ大学 Tufts University）
+
+    -   [Flavius Josephus, Antiquities of the Jews](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0146)　ユダヤ古代史
+
+-   Christian Classics Ethereal Library (Bringing Christian classic book to Life) [CCEL](https://ccel.org)
+
+    -   [Fragments of Papias, by Ignatius of Antioch](https://ccel.org/ccel/ignatius_antioch/fragments_of_papias/anf01)
+
+        -   [Introductory Note to the Fragments of Papias](https://ccel.org/ccel/ignatius_antioch/fragments_of_papias/anf01.vii.i.html): VI にマルコによる福音書について書かれています。
+
+        -   [日本語サイト](http://web.kyoto-inet.or.jp/people/tiakio/urchristentum/papias.html)
+
+-   [The Gnosis Archive](http://gnosis.org/welcome.html)
+
+    -   [Mandaean Scriptures and Fragments](http://www.gnosis.org/library/ginzarba.htm) マンデ教の祈祷書
