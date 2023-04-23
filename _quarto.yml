@@ -24,8 +24,8 @@ format:
   html:
     theme: cosmo
     number-sections: true
-    toc: true
-    toc-expand: 2 
+#    toc: true
+#    toc-expand: 2 
   pdf:
     pdf-engine: xelatex
     documentclass: bxjsreport #scrreprt
