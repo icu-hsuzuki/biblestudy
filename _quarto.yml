@@ -12,6 +12,7 @@ book:
     - aboutmark.qmd
     - markdq.qmd
     - markdq-old.qmd
+    - lukedq-old.qmd
     - summary.qmd
     - tables.qmd
     - references.qmd
