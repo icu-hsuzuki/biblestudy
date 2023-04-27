@@ -141,19 +141,33 @@
 **1** Ἀρχὴ τοῦ εὐαγγελίου Ἰησοῦ Χριστοῦ \[υἱοῦ θεοῦ\].
 
 **2** Καθὼς γέγραπται ἐν τῷ Ἠσαΐᾳ τῷ προφήτῃ· \
-*ἰδοὺ* *ἀποστέλλω τὸν ἄγγελόν μου πρὸ προσώπου σου,* 
+*ἰδοὺ ἀποστέλλω τὸν ἄγγελόν μου πρὸ προσώπου σου,* 
 
 *ὃς κατασκευάσει τὴν ὁδόν* σου·
 
 **3** *φωνὴ βοῶντος ἐν τῇ ἐρήμῳ·* \
-*ἑτοιμάσατε τὴν ὁδὸν κυρίου,* \
+*ἑτοιμάσατε*[^markdq-10] *τὴν ὁδὸν κυρίου,* \
 *εὐθείας ποιεῖτε τὰς τρίβους* αὐτοῦ,
 
-**4** ἐγένετο Ἰωάννης \[ὁ\] βαπτίζων ἐν τῇ ἐρήμῳ καὶ κηρύσσων βάπτισμα μετανοίας εἰς ἄφεσιν ἁμαρτιῶν.
+[^markdq-10]: ἑτοιμάζω: to make ready, prepare
+
+**4** ἐγένετο Ἰωάννης \[ὁ\] βαπτίζων ἐν τῇ ἐρήμῳ καὶ κηρύσσων βάπτισμα μετανοίας[^markdq-11] εἰς ἄφεσιν[^markdq-12] ἁμαρτιῶν[^markdq-13].
+
+[^markdq-11]: μετάνοια: a change of mind, as it appears to one who repents, of a purpose he has formed or of something he has done
+
+[^markdq-12]: ἄφεσις: i) release from bondage or imprisonment, ii) forgiveness or pardon, of sins (letting them go as if they had never been committed), remission of the penalty
+
+[^markdq-13]: ἁμαρτία: i) to be without a share in, ii) to miss the mark, iii) to err, be mistaken, iv) to miss or wander from the path of uprightness and honour, to do or go wrong, v) to wander from the law of God, violate God's law, sin. \[Strong\] In Greek writings, 1st, an error of the understanding, 2nd, a bad action, evil deed.
 
 **5** καὶ ἐξεπορεύετο πρὸς αὐτὸν πᾶσα ἡ Ἰουδαία χώρα καὶ οἱ Ἱεροσολυμῖται πάντες, καὶ ἐβαπτίζοντο ὑπ' αὐτοῦ ἐν τῷ Ἰορδάνῃ ποταμῷ ἐξομολογούμενοι τὰς ἁμαρτίας αὐτῶν.
 
 **6** καὶ ἦν ὁ Ἰωάννης ἐνδεδυμένος τρίχας καμήλου καὶ ζώνην δερματίνην περὶ τὴν ὀσφὺν αὐτοῦ καὶ ἐσθίων ἀκρίδας καὶ μέλι ἄγριον.
+
+**7** Καὶ ἐκήρυσσεν[^markdq-14] λέγων· ἔρχεται ὁ ἰσχυρότερός μου ὀπίσω μου, οὗ οὐκ εἰμὶ ἱκανὸς κύψας λῦσαι τὸν ἱμάντα τῶν ὑποδημάτων αὐτοῦ.
+
+[^markdq-14]: κηρύσσω: i) to be a herald, to officiate as a herald, ii) to publish, proclaim openly: something which has been done
+
+**8** ἐγὼ ἐβάπτισα ὑμᾶς ὕδατι, αὐτὸς δὲ βαπτίσει ὑμᾶς ἐν πνεύματι ἁγίῳ.
 
 ### 記録
 
