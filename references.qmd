@@ -1,7 +1,8 @@
 # 参考文献 {#references .unnumbered}
 
 ::: {#refs}
-1.  \[参照\] [キリスト時代のパレスチナ](https://upload.wikimedia.org/wikipedia/commons/1/1f/JBS1956-B_map11.png) (Wikimedia: 聖書地図 (JBS1956))
-
-2.  \[参照\] [John the Baptist](https://www.seektheoldpaths.com/Maps/106.jpg) (Halman Bible Atlas 106)
 :::
+
+1.  地図：[キリスト時代のパレスチナ](https://upload.wikimedia.org/wikipedia/commons/1/1f/JBS1956-B_map11.png) (Wikimedia: 聖書地図 (JBS1956))
+
+2.  地図： [John the Baptist](https://www.seektheoldpaths.com/Maps/106.jpg) (Halman Bible Atlas 106)
