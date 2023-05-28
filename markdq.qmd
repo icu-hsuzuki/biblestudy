@@ -765,23 +765,59 @@
 
 ### 問い
 
--   マルコ、マタイ、ルカを読んでみましょう。シモンとアンデレの家ではどんな問題がありましたか。
+1.  マルコ、マタイ、ルカを読んでみましょう。シモンとアンデレの家ではどんな問題がありましたか。
 
--   姑（しゅうと）の回復の様子はどのように記されていますか。
+2.  姑（しゅうと）の回復の様子はどのように記されていますか。
 
--   夕暮れには、どのよようなことが起きますか。それはなぜでしょうか。
+3.  夕暮れには、どのよようなことが起きますか。それはなぜでしょうか。
 
--   イエスは何をしますか。
+4.  イエスは何をしますか。
 
--   イエスはなぜ、悪霊を黙らせるのでしょうか。
+5.  イエスはなぜ、悪霊を黙らせるのでしょうか。
 
 ### 参照
 
--   マタイ8:17 - イザヤ53:4
+-   マタイ8:17 - イザヤ53:4 まことに彼はわれわれの病を負い、／われわれの悲しみをになった。しかるに、われわれは思った、／彼は打たれ、神にたたかれ、苦しめられたのだと。
 
-> **29** Καὶ εὐθὺς ἐκ τῆς συναγωγῆς ἐξελθόντες ἦλθον εἰς τὴν οἰκίαν Σίμωνος καὶ Ἀνδρέου μετὰ Ἰακώβου καὶ Ἰωάννου. **30** ἡ δὲ πενθερὰ Σίμωνος κατέκειτο πυρέσσουσα, καὶ εὐθὺς λέγουσιν αὐτῷ περὶ αὐτῆς. **31** καὶ προσελθὼν ἤγειρεν αὐτὴν κρατήσας τῆς χειρός· καὶ ἀφῆκεν αὐτὴν ὁ πυρετός, καὶ διηκόνει αὐτοῖς. **32**Ὀψίας δὲ γενομένης, ὅτε ἔδυ ὁ ἥλιος, ἔφερον πρὸς αὐτὸν πάντας τοὺς κακῶς ἔχοντας καὶ τοὺς δαιμονιζομένους· **33** καὶ ἦν ὅλη ἡ πόλις ἐπισυνηγμένη πρὸς τὴν θύραν. **34** καὶ ἐθεράπευσεν[^markdq-68] πολλοὺς κακῶς ἔχοντας ποικίλαις νόσοις καὶ δαιμόνια πολλὰ ἐξέβαλεν καὶ οὐκ ἤφιεν λαλεῖν τὰ δαιμόνια, ὅτι ᾔδεισαν αὐτόν.
+> **29** Καὶ εὐθὺς ἐκ τῆς συναγωγῆς ἐξελθόντες ἦλθον εἰς τὴν οἰκίαν Σίμωνος καὶ Ἀνδρέου μετὰ Ἰακώβου καὶ Ἰωάννου. **30** ἡ δὲ πενθερὰ[^markdq-68] Σίμωνος κατέκειτο[^markdq-69] πυρέσσουσα[^markdq-70], καὶ εὐθὺς λέγουσιν αὐτῷ περὶ αὐτῆς. **31** καὶ προσελθὼν[^markdq-71] ἤγειρεν αὐτὴν κρατήσας[^markdq-72] τῆς χειρός[^markdq-73]· καὶ ἀφῆκεν[^markdq-74] αὐτὴν ὁ πυρετός[^markdq-75], καὶ διηκόνει αὐτοῖς. **32**Ὀψίας[^markdq-76] δὲ γενομένης, ὅτε ἔδυ[^markdq-77] ὁ ἥλιος, ἔφερον[^markdq-78] πρὸς αὐτὸν πάντας τοὺς κακῶς[^markdq-79] ἔχοντας καὶ τοὺς δαιμονιζομένους[^markdq-80]· **33** καὶ ἦν ὅλη ἡ πόλις ἐπισυνηγμένη[^markdq-81] πρὸς τὴν θύραν. **34** καὶ ἐθεράπευσεν[^markdq-82] πολλοὺς κακῶς ἔχοντας ποικίλαις[^markdq-83] νόσοις[^markdq-84] καὶ δαιμόνια[^markdq-85] πολλὰ ἐξέβαλεν καὶ οὐκ ἤφιεν[^markdq-86] λαλεῖν τὰ δαιμόνια, ὅτι ᾔδεισαν αὐτόν.
 
-[^markdq-68]: θεραπεύω: i) to serve, do service, ii) to heal, cure, restore to health
+[^markdq-68]: πενθερά: mother-in-law, a wife's mother
+
+[^markdq-69]: κατάκειμαι: to have lain down, i.e. to lie prostrate
+
+[^markdq-70]: πυρέσσω: to be sick with a fever
+
+[^markdq-71]: προσέρχομαι: i) to come to, approach, ii) draw near to iii) to assent to
+
+[^markdq-72]: κρατέω: i) to have power, be powerful, ii) to get possession of, iii) to hold
+
+[^markdq-73]: χείρ: i) by the help or agency of any one, by means of any one, ii) fig. applied to God symbolising his might, activity, power
+
+[^markdq-74]: ἀφίημι: i) to send away, ii) to permit, allow, not to hinder, to give up a thing to a person, iii) to leave, go way from one
+
+[^markdq-75]: πυρετός: i) fiery heat, ii) fever
+
+[^markdq-76]: ὄψιος: i) late, ii) evening
+
+[^markdq-77]: δύνω: i) to go into, enter, ii) go under, be plunged into, sink in
+
+[^markdq-78]: φέρω: i) to carry, ii) to bear, i.e. endure, to endure the rigour of a thing, to bear patiently one's conduct, or spare one (abstain from punishing or destroying), iii) to bring, bring to, bring forward
+
+[^markdq-79]: κακῶς: i) miserable, to be ill, ii) improperly, wrongly, iii) to speak ill of, revile, one
+
+[^markdq-80]: δαιμονίζομαι: to be under the power of a demon.
+
+[^markdq-81]: ἐπισυνάγω: i) to gather together besides, to bring together to others already assembled, ii) to gather together against, iii) to gather together in one place
+
+[^markdq-82]: θεραπεύω: i) to serve, do service, ii) to heal, cure, restore to health
+
+[^markdq-83]: ποικίλος: i) a various colours, variegated, ii) of various sorts
+
+[^markdq-84]: νόσος: disease, sickness
+
+[^markdq-85]: διακονέω: to be a servant, attendant, domestic, to serve, wait upon
+
+[^markdq-86]: ἀφίημι: i) to send away, ii) to permit, allow, not to hinder, to give up a thing to a person, iii) to leave, go way from one
 
 ### 記録
 
