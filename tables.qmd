@@ -6,16 +6,18 @@
 #| include: false
 library(tidyverse)
 library(DT)
+library(showtext)
+showtext_auto()
 ```
 
 ```{r}
-#| echo: false
-#| error: false
-#| warning: false
-#| eval: false
-marktable <- read_csv("data/marklist.csv") %>%
-  select(c(1,2,3,5,7)) %>% datatable()
-marktable
+#| label: marklist
+#| message: false
+
+marklist <- read_csv("data/marklist.csv", 
+    col_types = cols(...4 = col_skip(), ...6 = col_skip(), 
+        ...8 = col_skip(), ...9 = col_skip()))
+marklist# %>% datatable()
 ```
 
 [マルコによる福音書の表題](https://icu-hsuzuki.github.io/science/bible/docs/mark.pdf)
