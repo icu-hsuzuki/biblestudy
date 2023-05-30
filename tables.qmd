@@ -12,6 +12,7 @@ library(DT)
 #| echo: false
 #| error: false
 #| warning: false
+#| eval: false
 marktable <- read_csv("data/marklist.csv") %>%
   select(c(1,2,3,5,7)) %>% datatable()
 marktable
