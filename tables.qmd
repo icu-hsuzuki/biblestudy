@@ -13,11 +13,12 @@ showtext_auto()
 ```{r}
 #| label: marklist
 #| message: false
+#| echo: false
 
 marklist <- read_csv("data/marklist.csv", 
     col_types = cols(...4 = col_skip(), ...6 = col_skip(), 
         ...8 = col_skip(), ...9 = col_skip()))
-marklist# %>% datatable()
+knitr::kable(head(marklist, 40))
 ```
 
 [マルコによる福音書の表題](https://icu-hsuzuki.github.io/science/bible/docs/mark.pdf)
