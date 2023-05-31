@@ -18,7 +18,18 @@ showtext_auto()
 marklist <- read_csv("data/marklist.csv", 
     col_types = cols(...4 = col_skip(), ...6 = col_skip(), 
         ...8 = col_skip(), ...9 = col_skip()))
-knitr::kable(head(marklist, 40))
+knitr::kable(head(marklist,98))
+```
+
+### マルコに含まれていない表題
+
+```{r}
+#| label: excmark
+#| message: false
+#| echo: false
+
+excmark <- read_csv("data/excmark.csv")
+knitr::kable(head(excmark, 67))
 ```
 
 [マルコによる福音書の表題](https://icu-hsuzuki.github.io/science/bible/docs/mark.pdf)
