@@ -892,7 +892,33 @@
 
 ### 参照
 
-> **35** Καὶ πρωῒ ἔννυχα λίαν ἀναστὰς ἐξῆλθεν καὶ ἀπῆλθεν εἰς ἔρημον τόπον κἀκεῖ προσηύχετο. **36** καὶ κατεδίωξεν αὐτὸν Σίμων καὶ οἱ μετ\' αὐτοῦ, **37** καὶ εὗρον αὐτὸν καὶ λέγουσιν αὐτῷ ὅτι πάντες ζητοῦσίν σε. **38** καὶ λέγει αὐτοῖς· ἄγωμεν ἀλλαχοῦ εἰς τὰς ἐχομένας κωμοπόλεις, ἵνα καὶ ἐκεῖ κηρύξω· εἰς τοῦτο γὰρ ἐξῆλθον. **39** Καὶ ἦλθεν κηρύσσων εἰς τὰς συναγωγὰς αὐτῶν εἰς ὅλην τὴν Γαλιλαίαν καὶ τὰ δαιμόνια ἐκβάλλων.
+> **35** Καὶ πρωῒ[^markdq-87] ἔννυχα[^markdq-88] λίαν[^markdq-89] ἀναστὰς[^markdq-90] ἐξῆλθεν καὶ ἀπῆλθεν[^markdq-91] εἰς ἔρημον[^markdq-92] τόπον κἀκεῖ προσηύχετο[^markdq-93]. **36** καὶ κατεδίωξεν[^markdq-94] αὐτὸν Σίμων καὶ οἱ μετ\' αὐτοῦ, **37** καὶ εὗρον[^markdq-95] αὐτὸν καὶ λέγουσιν αὐτῷ ὅτι πάντες ζητοῦσίν[^markdq-96] σε. **38** καὶ λέγει αὐτοῖς· ἄγωμεν[^markdq-97] ἀλλαχοῦ εἰς τὰς ἐχομένας κωμοπόλεις[^markdq-98], ἵνα καὶ ἐκεῖ κηρύξω[^markdq-99]· εἰς τοῦτο γὰρ ἐξῆλθον. **39** Καὶ ἦλθεν κηρύσσων εἰς τὰς συναγωγὰς αὐτῶν εἰς ὅλην τὴν Γαλιλαίαν καὶ τὰ δαιμόνια ἐκβάλλων.
+
+[^markdq-87]: πρωΐ: i) in the morning, early, ii) he fourth watch of the night, from 3 o'clock in the morning until 6 o'clock approximately
+
+[^markdq-88]: ἔννυχος: nightly, nocturnal
+
+[^markdq-89]: λίαν: greatly, exceedingly, exceedingly beyond measure
+
+[^markdq-90]: ἀνίστημι: i) to cause to rise up, raise up, ii) to rise, stand up, iii) at arise, appear, stand forth
+
+[^markdq-91]: ἀπέρχομαι: i) to go away, depart, ii) to go away
+
+[^markdq-92]: ἔρημος: solitary, lonely, desolate, uninhabited
+
+[^markdq-93]: προσεύχομαι: to offer prayers, to pray
+
+[^markdq-94]: καταδιώκω: to follow after, follow up
+
+[^markdq-95]: εὑρίσκω: i) to come upon, hit upon, to meet with, ii) to find by enquiry, thought, examination, scrutiny, observation, to find out by practice and experience, iii) to find out for one's self, to acquire, get, obtain, procure
+
+[^markdq-96]: ζητέω: i) to seek in order to find, ii) to seek i.e. require, demand
+
+[^markdq-97]: ἄγω: i) to lead, take with one, ii) to lead, iii) to pass a day, keep or celebrate a feast, etc., iv) to go, depart
+
+[^markdq-98]: κωμόπολις: a village approximating in size and number of inhabitants to a city, a village city, a town
+
+[^markdq-99]: κηρύσσω: i) to be a herald, to officiate as a herald, ii) to publish, proclaim openly: something which has been done, iii) used of the public proclamation of the gospel and matters pertaining to it, made by John the Baptist, by Jesus, by the apostles and other Christian teachers
 
 ### 記録
 
