@@ -1138,11 +1138,11 @@
 
 2.  中風の人はどのように運ばれてきましたか。なぜこれほど人が集まっていたのでしょう。イエスは何をしているところでしたか。マタイやルカも合わせて状況を想像してみましょう。
 
-3.  イエスはどうしますか。中風の人はどう感じたと思いますか。
+3.  イエスはどうしますか。中風の人にはこのことばはどう響いたと思いますか。
 
 4.  「彼らの信仰」とは誰のどのような信仰なのでしょうか。
 
-5.  律法学者は、どう反応しますか。なぜ、そんな反応をするのでしょうか。
+5.  律法学者は、どう反応しますか。なぜ、そのような反応をするのでしょうか。
 
 6.  イエスは、どんなことを気付かせるために9節の質問をしていますか。イエスの問いに対して律法学者はどう考えていたでしょう。あなたは、どう考えますか。
 
@@ -1151,76 +1151,138 @@
 ### 参照
 
 -   **パリサイ人・律法学者：**[参照](https://icu-hsuzuki.github.io/biblestudy/aboutmark.html#sec-パリサイ人)
+-   **Q. マルコ2章7節で神だけが罪をゆるせるとありますが、聖書からの引用であれば教えてください。**
+    -   **ChatGPT:** マルコ2:7節の箇所は、新約聖書の中での記述であるため、古代のヘブライ語やギリシャ語で書かれた旧約聖書の引用ではありません。しかし、同様のテーマが旧約聖書でも扱われており、神が罪をゆるすことについての教えがいくつかあります。
 
-> **1** Καὶ εἰσελθὼν[^markdq-119] πάλιν εἰς Καφαρναοὺμ δι' ἡμερῶν ἠκούσθη[^markdq-120] ὅτι ἐν οἴκῳ ἐστίν. **2** καὶ συνήχθησαν[^markdq-121] πολλοὶ ὥστε μηκέτι χωρεῖν[^markdq-122] μηδὲ τὰ πρὸς τὴν θύραν, καὶ ἐλάλει αὐτοῖς τὸν λόγον. **3** Καὶ ἔρχονται[^markdq-123] φέροντες[^markdq-124] πρὸς αὐτὸν παραλυτικὸν[^markdq-125] αἰρόμενον[^markdq-126] ὑπὸ τεσσάρων. **4** καὶ μὴ δυνάμενοι[^markdq-127] προσενέγκαι[^markdq-128] αὐτῷ διὰ τὸν ὄχλον ἀπεστέγασαν[^markdq-129] τὴν στέγην[^markdq-130] ὅπου ἦν, καὶ ἐξορύξαντες[^markdq-131] χαλῶσιν[^markdq-132] τὸν κράβαττον[^markdq-133] ὅπου ὁ παραλυτικὸς[^markdq-134] κατέκειτο[^markdq-135]. **5** καὶ ἰδὼν[^markdq-136] ὁ Ἰησοῦς τὴν πίστιν[^markdq-137] αὐτῶν λέγει τῷ παραλυτικῷ· τέκνον, ἀφίενταί[^markdq-138] σου αἱ ἁμαρτίαι. **6** Ἦσαν δέ τινες τῶν γραμματέων ἐκεῖ καθήμενοι[^markdq-139] καὶ διαλογιζόμενοι[^markdq-140] ἐν ταῖς καρδίαις αὐτῶν· **7**τί οὗτος οὕτως λαλεῖ; βλασφημεῖ[^markdq-141]· τίς δύναται ἀφιέναι ἁμαρτίας εἰ μὴ εἷς ὁ θεός; **8** καὶ εὐθὺς ἐπιγνοὺς[^markdq-142] ὁ Ἰησοῦς τῷ πνεύματι αὐτοῦ ὅτι οὕτως διαλογίζονται ἐν ἑαυτοῖς λέγει αὐτοῖς· τί ταῦτα διαλογίζεσθε ἐν ταῖς καρδίαις ὑμῶν; **9** τί ἐστιν εὐκοπώτερον[^markdq-143], εἰπεῖν τῷ παραλυτικῷ· ἀφίενταί σου αἱ ἁμαρτίαι, ἢ εἰπεῖν· ἔγειρε καὶ ἆρον[^markdq-144] τὸν κράβαττόν σου καὶ περιπάτει;**10** ἵνα δὲ εἰδῆτε[^markdq-145] ὅτι ἐξουσίαν ἔχει ὁ υἱὸς τοῦ ἀνθρώπου ἀφιέναι ἁμαρτίας ἐπὶ τῆς γῆς-- λέγει τῷ παραλυτικῷ· **11** σοὶ λέγω, ἔγειρε[^markdq-146] ἆρον τὸν κράβαττόν σου καὶ ὕπαγε εἰς τὸν οἶκόν σου. **12** καὶ ἠγέρθη[^markdq-147] καὶ εὐθὺς ἄρας τὸν κράβαττον ἐξῆλθεν ἔμπροσθεν πάντων, ὥστε ἐξίστασθαι[^markdq-148] πάντας καὶ δοξάζειν[^markdq-149] τὸν θεὸν λέγοντας ὅτι οὕτως οὐδέποτε εἴδομεν.
+        たとえば、詩篇103:2-3[^markdq-119]では、「わが魂よ、主をほめたたえよ。わが内なる者よ、主の聖なる名をほめたたえよ。わが魂よ、主をほめたたえよ。その恵みを忘れるな」と語られています。また、詩篇130:3-4[^markdq-120]では、「主よ、あなたが罪をおしとやかにおしとやかにお赦しになることを、だれが耳にしたことがありましょう。しかし、あなたはゆえなく恐れられます」という言葉があります。
 
-[^markdq-119]: εἰσέρχομαι (2AAI-3S): to go out or come in: to enter
+        さらに、イザヤ書43:25[^markdq-121]では、「わたしは、自分のために自分の名のために、あなたのとがを消し去り、あなたの罪を覚えない」という神の言葉が語られています。
 
-[^markdq-120]: ἀκούω (API-3S): i) to be endowed with the faculty of hearing, not deaf, ii) to hear, iii) to hear something
+        以上のように、聖書には神が罪をゆるすことについての教えが数多く記されています。
 
-[^markdq-121]: συνάγω (API-3P): i) to gather together, to gather, ii) to bring together, assemble, collect, iii) to lead with one's self
+[^markdq-119]: 口語訳：わがたましいよ、主をほめよ。そのすべてのめぐみを心にとめよ。主はあなたのすべての不義をゆるし、／あなたのすべての病をいやし、 
 
-[^markdq-122]: χωρέω (PAN): i) to leave space (which may be filled or occupied by another), to make room, give place, yield, ii) to go forward, advance, proceed, succeed, iii) to have space or room for receiving or holding something
+[^markdq-120]: 口語訳：主よ、あなたがもし、もろもろの不義に／目をとめられるならば、／主よ、だれが立つことができましょうか。 しかしあなたには、ゆるしがあるので、／人に恐れかしこまれるでしょう。 
 
-[^markdq-123]: ἔρχομαι (PNI-3P) N: middle or passive doponent
+[^markdq-121]: 口語訳：わたしこそ、わたし自身のために／あなたのとがを消す者である。わたしは、あなたの罪を心にとめない。 
 
-[^markdq-124]: φέρω (PAP-NPM): i) to carry, ii) to bear, i.e. endure, to endure the rigour of a thing, to bear patiently one's conduct, or spare one (abstain from punishing or destroying), iii) to bring, bring to, bring forward
+> **1** Καὶ εἰσελθὼν[^markdq-122] πάλιν εἰς Καφαρναοὺμ δι' ἡμερῶν ἠκούσθη[^markdq-123] ὅτι ἐν οἴκῳ ἐστίν. **2** καὶ συνήχθησαν[^markdq-124] πολλοὶ ὥστε μηκέτι χωρεῖν[^markdq-125] μηδὲ τὰ πρὸς τὴν θύραν, καὶ ἐλάλει αὐτοῖς τὸν λόγον. **3** Καὶ ἔρχονται[^markdq-126] φέροντες[^markdq-127] πρὸς αὐτὸν παραλυτικὸν[^markdq-128] αἰρόμενον[^markdq-129] ὑπὸ τεσσάρων. **4** καὶ μὴ δυνάμενοι[^markdq-130] προσενέγκαι[^markdq-131] αὐτῷ διὰ τὸν ὄχλον ἀπεστέγασαν[^markdq-132] τὴν στέγην[^markdq-133] ὅπου ἦν, καὶ ἐξορύξαντες[^markdq-134] χαλῶσιν[^markdq-135] τὸν κράβαττον[^markdq-136] ὅπου ὁ παραλυτικὸς[^markdq-137] κατέκειτο[^markdq-138]. **5** καὶ ἰδὼν[^markdq-139] ὁ Ἰησοῦς τὴν πίστιν[^markdq-140] αὐτῶν λέγει τῷ παραλυτικῷ· τέκνον, ἀφίενταί[^markdq-141] σου αἱ ἁμαρτίαι. **6** Ἦσαν δέ τινες τῶν γραμματέων ἐκεῖ καθήμενοι[^markdq-142] καὶ διαλογιζόμενοι[^markdq-143] ἐν ταῖς καρδίαις αὐτῶν· **7**τί οὗτος οὕτως λαλεῖ; βλασφημεῖ[^markdq-144]· τίς δύναται ἀφιέναι ἁμαρτίας εἰ μὴ εἷς ὁ θεός; **8** καὶ εὐθὺς ἐπιγνοὺς[^markdq-145] ὁ Ἰησοῦς τῷ πνεύματι αὐτοῦ ὅτι οὕτως διαλογίζονται ἐν ἑαυτοῖς λέγει αὐτοῖς· τί ταῦτα διαλογίζεσθε ἐν ταῖς καρδίαις ὑμῶν; **9** τί ἐστιν εὐκοπώτερον[^markdq-146], εἰπεῖν τῷ παραλυτικῷ· ἀφίενταί σου αἱ ἁμαρτίαι, ἢ εἰπεῖν· ἔγειρε καὶ ἆρον[^markdq-147] τὸν κράβαττόν σου καὶ περιπάτει;**10** ἵνα δὲ εἰδῆτε[^markdq-148] ὅτι ἐξουσίαν ἔχει ὁ υἱὸς τοῦ ἀνθρώπου ἀφιέναι ἁμαρτίας ἐπὶ τῆς γῆς-- λέγει τῷ παραλυτικῷ· **11** σοὶ λέγω, ἔγειρε[^markdq-149] ἆρον τὸν κράβαττόν σου καὶ ὕπαγε εἰς τὸν οἶκόν σου. **12** καὶ ἠγέρθη[^markdq-150] καὶ εὐθὺς ἄρας τὸν κράβαττον ἐξῆλθεν ἔμπροσθεν πάντων, ὥστε ἐξίστασθαι[^markdq-151] πάντας καὶ δοξάζειν[^markdq-152] τὸν θεὸν λέγοντας ὅτι οὕτως οὐδέποτε εἴδομεν.
 
-[^markdq-125]: παραλυτικός: paralytic
+[^markdq-122]: εἰσέρχομαι (2AAI-3S): to go out or come in: to enter
 
-[^markdq-126]: αἴρω (PPP-ASM): i) to raise up, elevate, lift up, ii) to take upon one's self and carry what has been raised up, to bear, iii) to bear away what has been raised, carry off
+[^markdq-123]: ἀκούω (API-3S): i) to be endowed with the faculty of hearing, not deaf, ii) to hear, iii) to hear something
 
-[^markdq-127]: PNP-NPM
+[^markdq-124]: συνάγω (API-3P): i) to gather together, to gather, ii) to bring together, assemble, collect, iii) to lead with one's self
 
-[^markdq-128]: προσεγγίζω (AAN): to approach unto
+[^markdq-125]: χωρέω (PAN): i) to leave space (which may be filled or occupied by another), to make room, give place, yield, ii) to go forward, advance, proceed, succeed, iii) to have space or room for receiving or holding something
 
-[^markdq-129]: ἀποστεγάζω (AAI-3P): to uncover, take off the roof
+[^markdq-126]: ἔρχομαι (PNI-3P) N: middle or passive doponent
 
-[^markdq-130]: στέγη (ASF): a roof: of a house
+[^markdq-127]: φέρω (PAP-NPM): i) to carry, ii) to bear, i.e. endure, to endure the rigour of a thing, to bear patiently one's conduct, or spare one (abstain from punishing or destroying), iii) to bring, bring to, bring forward
 
-[^markdq-131]: ἐξορύσσω (AAP-NPM): i) to dig out, to pluck out (the eyes), ii) to dig through
+[^markdq-128]: παραλυτικός: paralytic
 
-[^markdq-132]: χαλάω (PAI-3P): i) to loosen, slacken, relax, ii) to let down from a higher place to a lower
+[^markdq-129]: αἴρω (PPP-ASM): i) to raise up, elevate, lift up, ii) to take upon one's self and carry what has been raised up, to bear, iii) to bear away what has been raised, carry off
 
-[^markdq-133]: κράβαττος (ASM): a pallet, camp bed (a rather simple bed holding only one person)
+[^markdq-130]: PNP-NPM
 
-[^markdq-134]: παραλυτικός (NSM): paralytic; a) suffering from the relaxing of the nerves of one's side, b) disabled, weak of limb
+[^markdq-131]: προσεγγίζω (AAN): to approach unto
 
-[^markdq-135]: κατάκειμαι (INI-3S): to have lain down, i.e. to lie prostrate; a) of the sick, b) of those at meals, to recline
+[^markdq-132]: ἀποστεγάζω (AAI-3P): to uncover, take off the roof
 
-[^markdq-136]: ὁράω (2AAP-NSM): i) to see with the eyes, ii) to see with the mind, to perceive, know, iii) to see, i.e. become acquainted with by experience, to experience, iv) to see, to look to, v) I was seen, showed myself, appeared
+[^markdq-133]: στέγη (ASF): a roof: of a house
 
-[^markdq-137]: πίστις (ASF): i) conviction of the truth of anything, belief; in the NT of a conviction or belief respecting man's relationship to God and divine things, generally with the included idea of trust and holy fervour born of faith and joined with it, ii) fidelity, faithfulness
+[^markdq-134]: ἐξορύσσω (AAP-NPM): i) to dig out, to pluck out (the eyes), ii) to dig through
 
-[^markdq-138]: ἀφίημι (RPI-3P): i) to send away, ii) to permit, allow, not to hinder, to give up a thing to a person, iii) to leave, go way from one
+[^markdq-135]: χαλάω (PAI-3P): i) to loosen, slacken, relax, ii) to let down from a higher place to a lower
 
-[^markdq-139]: κάθημαι (PNP-NPM): i) to sit down, seat one's self, ii) to sit, be seated, of a place occupied
+[^markdq-136]: κράβαττος (ASM): a pallet, camp bed (a rather simple bed holding only one person)
 
-[^markdq-140]: διαλογίζομαι (PNP-NPM): to bring together different reasons, to reckon up the reasons, to reason, revolve in one's mind, deliberate
+[^markdq-137]: παραλυτικός (NSM): paralytic; a) suffering from the relaxing of the nerves of one's side, b) disabled, weak of limb
 
-[^markdq-141]: βλασφημία (APF): i) slander, detraction, speech injurious, to another's good name, ii) impious and reproachful speech injurious to divine majesty
+[^markdq-138]: κατάκειμαι (INI-3S): to have lain down, i.e. to lie prostrate; a) of the sick, b) of those at meals, to recline
 
-[^markdq-142]: ἐπιγινώσκω (2AAP-NSM): i) to become thoroughly acquainted with, to know thoroughly, ii) to know
+[^markdq-139]: ὁράω (2AAP-NSM): i) to see with the eyes, ii) to see with the mind, to perceive, know, iii) to see, i.e. become acquainted with by experience, to experience, iv) to see, to look to, v) I was seen, showed myself, appeared
 
-[^markdq-143]: εὔκοπος (NSN-C): i) with easy labour, ii) easy
+[^markdq-140]: πίστις (ASF): i) conviction of the truth of anything, belief; in the NT of a conviction or belief respecting man's relationship to God and divine things, generally with the included idea of trust and holy fervour born of faith and joined with it, ii) fidelity, faithfulness
 
-[^markdq-144]: αἴρω (AAM-2S): i) to raise up, elevate, lift up, ii) to take upon one's self and carry what has been raised up, to bear, iii) to bear away what has been raised, carry off
+[^markdq-141]: ἀφίημι (RPI-3P): i) to send away, ii) to permit, allow, not to hinder, to give up a thing to a person, iii) to leave, go way from one
 
-[^markdq-145]: εἴδω (RAS-2P): i) to see, ii) to know
+[^markdq-142]: κάθημαι (PNP-NPM): i) to sit down, seat one's self, ii) to sit, be seated, of a place occupied
 
-[^markdq-146]: ἐγείρω (AMM-2S): to arouse, cause to rise
+[^markdq-143]: διαλογίζομαι (PNP-NPM): to bring together different reasons, to reckon up the reasons, to reason, revolve in one's mind, deliberate
 
-[^markdq-147]: ἐγείρω (API-3S): to arouse, cause to rise
+[^markdq-144]: βλασφημία (APF): i) slander, detraction, speech injurious, to another's good name, ii) impious and reproachful speech injurious to divine majesty
 
-[^markdq-148]: ἐξίστημι (PMN): to throw out of position, displace
+[^markdq-145]: ἐπιγινώσκω (2AAP-NSM): i) to become thoroughly acquainted with, to know thoroughly, ii) to know
 
-[^markdq-149]: δοξάζω (PAN): i) to think, suppose, be of opinion, ii) to praise, extol, magnify, celebrate, iii) to honour, do honour to, hold in honour, iv) to make glorious, adorn with lustre, clothe with splendour
+[^markdq-146]: εὔκοπος (NSN-C): i) with easy labour, ii) easy
+
+[^markdq-147]: αἴρω (AAM-2S): i) to raise up, elevate, lift up, ii) to take upon one's self and carry what has been raised up, to bear, iii) to bear away what has been raised, carry off
+
+[^markdq-148]: εἴδω (RAS-2P): i) to see, ii) to know
+
+[^markdq-149]: ἐγείρω (AMM-2S): to arouse, cause to rise
+
+[^markdq-150]: ἐγείρω (API-3S): to arouse, cause to rise
+
+[^markdq-151]: ἐξίστημι (PMN): to throw out of position, displace
+
+[^markdq-152]: δοξάζω (PAN): i) to think, suppose, be of opinion, ii) to praise, extol, magnify, celebrate, iii) to honour, do honour to, hold in honour, iv) to make glorious, adorn with lustre, clothe with splendour
 
 ### 記録
 
 -   日時：2023年6月22日午後7時半〜9時半
 
 -   出席（対面）X名、参加（遠隔）Y名
+
+### 問いについて
+
+1.  少し長いので、まずは、マルコで全体を確認。
+
+2.  **中風の人が運ばれてきた時の様子**
+
+    -   **どのように運ばれてきたか**「人々が」「四人の人に」「中風の人を」運ばせて、イエスのもとに連れてきた。
+
+    -   **なぜこれほど人が集まったか。**マルコ（だけ）にはカペナウムでの出来事であったことが記されている（1）。「1:32 夕暮になり日が沈むと、人々は病人や悪霊につかれた者をみな、イエスのところに連れてきた。 33 こうして、町中の者が戸口に集まった。 34 イエスは、さまざまの病をわずらっている多くの人々をいやし、また多くの悪霊を追い出された。」と、ある。また、寂しいところに祈りにいくと人々は捜していた。（1:38）「1:45 彼（重い皮膚病を癒された人）は出て行って、自分の身に起ったことを盛んに語り、また言いひろめはじめたので、イエスはもはや表立っては町に、はいることができなくなり、外の寂しい所にとどまっておられた。しかし、人々は方々から、イエスのところにぞくぞくと集まってきた。」
+
+    -   **イエスは何をしていたか「**御言を彼らに語っておられた。**」**つまり説教中、それでも対応。なぜだろうか。次の問いにつながる。
+
+3.  **イエスのことば、中風のひとの受け取り方**
+
+    -   イエスは彼らの信仰を見て、中風の者に、「子よ、あなたの罪はゆるされた」と言われた。
+
+    -   彼らの信仰の部分は、次の問いに続く。ここでは、「み言葉を語ること」を中断して。
+
+    -   中風の人も驚いたかもしれない。社会一般的には、中風は罪の故と思っていたかもしれないが、このひとを連れてきた人たちの様子からは、そのような因果応報的な考えかたは見て取れない。それが「（神は憐れんでくださる、これが当然の罪の帰結で許されないものだとは思っていない）信仰」と表現されているのかもしれない。社会的認識が一般的にあったとしてのそれに支配されているとも限らない。
+
+    -   マルコでは「子よ」、マタイでは「子よ、しっかりしなさい」、ルカでは「人よ」と呼びかけ方が異なっている。
+
+4.  **「彼らの信仰」とは**
+
+    -   誰：マルコでは、人々？　マタイでも人々、ルカもおそらく人々。四人に限定されるわけではない。
+
+    -   罪の結果だと一般的には思われていたが、神は憐れんでくださるということか。
+
+5.  **律法学者の反応**
+
+    -   ルカでは「エルサレム方きたパリサイ人や律法学者」となっている。マルコとマタイは「幾人かの律法学者」「律法学者たち」
+
+    -   イエスが見抜いてとなっており、前列に座っていたのかもしれない。
+
+6.  **何を気づかせるため**
+
+    -   イエスは、どちらでもそう変わらないと思っていたのではないか。実際、結局両方言っている。
+
+    -   「罪をゆるすことができるのは神のみ」ななぜなのだろうか。
+
+    -   原理主義ではいけない。
+
+7.  **中風の人に何と語り、どうなったか。**
+
+    -   「床を取り上げて家に帰れ」手伝ってもらってここにきたが、自分で動くことを命じられている。眼に見える、「みんなの前を出て行った」変化がある。
+
+    -   一同は驚き、神をあがめて「こんな事は、まだ一度も見たことがない」と言った。
 
 ### メモ
 
