@@ -1341,37 +1341,43 @@
 
 -   収税人：[参照](https://icu-hsuzuki.github.io/biblestudy/aboutmark.html#sec-収税人)
 
+    -   ルカ3:12,13 取税人もバプテスマを受けにきて、彼に言った、「先生、わたしたちは何をすればよいのですか」。彼らに言った、「きまっているもの以上に取り立ててはいけない」。 
+
 -   罪人たち：[参照](https://icu-hsuzuki.github.io/biblestudy/aboutmark.html#sec-罪人たち)
+
+-   マタイ9:13： ホセア6:6 「わたしはいつくしみを喜び、犠牲を喜ばない。燔祭よりもむしろ神を知ることを喜ぶ。」כִּי [^markdq-151]חֶסֶד חָפַצְתִּי וְלֹא־זָבַח וְדַעַת אֱלֹהִים מֵעֹלֽוֹת׃
 
 [^markdq-150]: Μαθθαῖος: A shorter form of Ματταθίας (מַתַּתְיָה:A)a Levite who presided over the offerings, B) a Levite appointed by David to minister in the musical service before the ark, C) one of the family of Nebo who had a foreign wife in the time of Ezra, D) one of the men who stood at the right hand of Ezra when he read the law to the people), Matthew = "gift of Jehovah", 1Chronicles [9:31](https://www.blueletterbible.org/lexicon/h4993/kjv/wlc/0-1/#si_6); [15:18](https://www.blueletterbible.org/lexicon/h4993/kjv/wlc/0-1/#si_1); [15:21](https://www.blueletterbible.org/lexicon/h4993/kjv/wlc/0-1/#si_2); [16:5](https://www.blueletterbible.org/lexicon/h4993/kjv/wlc/0-1/#si_5); [25:3](https://www.blueletterbible.org/lexicon/h4993/kjv/wlc/0-1/#si_3); [25:21](https://www.blueletterbible.org/lexicon/h4993/kjv/wlc/0-1/#si_4), Ezra [10:43](https://www.blueletterbible.org/lexicon/h4993/kjv/wlc/0-1/#si_8), Nehemiah 8:4
 
-> **13** Καὶ ἐξῆλθεν[^markdq-151] πάλιν παρὰ τὴν θάλασσαν· καὶ πᾶς ὁ ὄχλος ἤρχετο πρὸς αὐτόν, καὶ ἐδίδασκεν[^markdq-152] αὐτούς. **14** Καὶ παράγων[^markdq-153] εἶδεν Λευὶν τὸν τοῦ Ἁλφαίου[^markdq-154] καθήμενον[^markdq-155] ἐπὶ τὸ τελώνιον[^markdq-156], καὶ λέγει αὐτῷ· ἀκολούθει μοι. καὶ ἀναστὰς[^markdq-157] ἠκολούθησεν αὐτῷ. **15** Καὶ γίνεται κατακεῖσθαι[^markdq-158] αὐτὸν ἐν τῇ οἰκίᾳ αὐτοῦ, καὶ πολλοὶ τελῶναι[^markdq-159] καὶ ἁμαρτωλοὶ[^markdq-160] συνανέκειντο[^markdq-161] τῷ Ἰησοῦ καὶ τοῖς μαθηταῖς αὐτοῦ· ἦσαν γὰρ πολλοὶ καὶ ἠκολούθουν αὐτῷ **16** καὶ οἱ γραμματεῖς τῶν Φαρισαίων ἰδόντες[^markdq-162] ὅτι ἐσθίει μετὰ τῶν ἁμαρτωλῶν καὶ τελωνῶν ἔλεγον τοῖς μαθηταῖς αὐτοῦ· ὅτι μετὰ τῶν τελωνῶν καὶ ἁμαρτωλῶν ἐσθίει; **17** καὶ ἀκούσας[^markdq-163] ὁ Ἰησοῦς λέγει αὐτοῖς \[ὅτι\] οὐ χρείαν ἔχουσιν οἱ ἰσχύοντες ἰατροῦ ἀλλ' οἱ κακῶς ἔχοντες· οὐκ ἦλθον καλέσαι δικαίους ἀλλ' ἁμαρτωλούς.
+[^markdq-151]: חֶסֶד (kheh'-sed): i) goodness, kindness, faithfulness, ii) a reproach, shame
 
-[^markdq-151]: ἐξέρχομαι (2AAI-3S): to go or come forth of
+> **13** Καὶ ἐξῆλθεν[^markdq-152] πάλιν παρὰ τὴν θάλασσαν· καὶ πᾶς ὁ ὄχλος ἤρχετο πρὸς αὐτόν, καὶ ἐδίδασκεν[^markdq-153] αὐτούς. **14** Καὶ παράγων[^markdq-154] εἶδεν Λευὶν τὸν τοῦ Ἁλφαίου[^markdq-155] καθήμενον[^markdq-156] ἐπὶ τὸ τελώνιον[^markdq-157], καὶ λέγει αὐτῷ· ἀκολούθει μοι. καὶ ἀναστὰς[^markdq-158] ἠκολούθησεν αὐτῷ. **15** Καὶ γίνεται κατακεῖσθαι[^markdq-159] αὐτὸν ἐν τῇ οἰκίᾳ αὐτοῦ, καὶ πολλοὶ τελῶναι[^markdq-160] καὶ ἁμαρτωλοὶ[^markdq-161] συνανέκειντο[^markdq-162] τῷ Ἰησοῦ καὶ τοῖς μαθηταῖς αὐτοῦ· ἦσαν γὰρ πολλοὶ καὶ ἠκολούθουν αὐτῷ **16** καὶ οἱ γραμματεῖς τῶν Φαρισαίων ἰδόντες[^markdq-163] ὅτι ἐσθίει μετὰ τῶν ἁμαρτωλῶν καὶ τελωνῶν ἔλεγον τοῖς μαθηταῖς αὐτοῦ· ὅτι μετὰ τῶν τελωνῶν καὶ ἁμαρτωλῶν ἐσθίει; **17** καὶ ἀκούσας[^markdq-164] ὁ Ἰησοῦς λέγει αὐτοῖς \[ὅτι\] οὐ χρείαν ἔχουσιν οἱ ἰσχύοντες ἰατροῦ ἀλλ' οἱ κακῶς ἔχοντες· οὐκ ἦλθον καλέσαι δικαίους ἀλλ' ἁμαρτωλούς.
 
-[^markdq-152]: διδάσκω (IAI-3S): to teach
+[^markdq-152]: ἐξέρχομαι (2AAI-3S): to go or come forth of
 
-[^markdq-153]: παράγω (PAP-NSM): i) pass by, ii) to pass by, go past
+[^markdq-153]: διδάσκω (IAI-3S): to teach
 
-[^markdq-154]: ἀκολουθέω (PAM-2S): i) to follow one who precedes, join him as his attendant, accompany him, ii) to join one as a disciple, become or be his disciple
+[^markdq-154]: παράγω (PAP-NSM): i) pass by, ii) to pass by, go past
 
-[^markdq-155]: κάθημαι (PNP-ASM): i) to sit down, seat one's self, ii) to sit, be seated, of a place occupied
+[^markdq-155]: ἀκολουθέω (PAM-2S): i) to follow one who precedes, join him as his attendant, accompany him, ii) to join one as a disciple, become or be his disciple
 
-[^markdq-156]: τελώνιον: i) customs, toll, ii) toll house, place of toll, tax office, iii) the place in which the tax collector sat to collect the taxes
+[^markdq-156]: κάθημαι (PNP-ASM): i) to sit down, seat one's self, ii) to sit, be seated, of a place occupied
 
-[^markdq-157]: ἀνίστημι (2AAP-NSM): i) to cause to rise up, raise up, ii) to rise, stand up, iii) at arise, appear, stand forth
+[^markdq-157]: τελώνιον: i) customs, toll, ii) toll house, place of toll, tax office, iii) the place in which the tax collector sat to collect the taxes
 
-[^markdq-158]: κατάκειμαι (PNN): to have lain down, i.e. to lie prostrate
+[^markdq-158]: ἀνίστημι (2AAP-NSM): i) to cause to rise up, raise up, ii) to rise, stand up, iii) at arise, appear, stand forth
 
-[^markdq-159]: τελώνης: i) a renter or farmer of taxes, ii) a tax gatherer, collector of taxes or tolls, one employed by a publican or farmer general in the collection of taxes. The tax collectors were as a class, detested not only by the Jews, but by other nations also, both on account of their employment and of the harshness, greed, and deception, with which they did their job.
+[^markdq-159]: κατάκειμαι (PNN): to have lain down, i.e. to lie prostrate
 
-[^markdq-160]: ἁμαρτωλός: devoted to sin, a sinner
+[^markdq-160]: τελώνης: i) a renter or farmer of taxes, ii) a tax gatherer, collector of taxes or tolls, one employed by a publican or farmer general in the collection of taxes. The tax collectors were as a class, detested not only by the Jews, but by other nations also, both on account of their employment and of the harshness, greed, and deception, with which they did their job.
 
-[^markdq-161]: συνανάκειμαι: to recline together, feast together
+[^markdq-161]: ἁμαρτωλός: devoted to sin, a sinner
 
-[^markdq-162]: ἐσθίω (PAP-ASM): to eat
+[^markdq-162]: συνανάκειμαι: to recline together, feast together
 
-[^markdq-163]: ἀκούω (APA-NSM): i) to be endowed with the faculty of hearing, not deaf, ii) to hear, iii) to hear something
+[^markdq-163]: ἐσθίω (PAP-ASM): to eat
+
+[^markdq-164]: ἀκούω (APA-NSM): i) to be endowed with the faculty of hearing, not deaf, ii) to hear, iii) to hear something
 
 ### 記録
 
@@ -1405,6 +1411,8 @@
 
     -   ルカ5:27には「レビという名の取税人」とあり、マタイと同一してもよいと思われるが、マタイについては、マタイ10:3 には「取税人マタイ」とある。
 
+        -   おそらく、ヘブル語、アラム語、ギリシャ語を話せ、お金もある。しかし、ユダヤ人からは、嫌われ、ユダヤ人であるにもかかわらず、蔑まれていた。
+
     -   マタイ：マッタテヤ の省略形 歴代誌15:18, 21, 16:5, 25:3, 21, エズラ10:43 。ネヘミヤ8:4 学者エズラはこの事のために、かねて設けた木の台の上に立ったが、彼のかたわらには右の方に**マッタテヤ**、シマ、アナヤ、ウリヤ、ヒルキヤおよびマアセヤが立ち、左の方にはペダヤ、ミサエル、マルキヤ、ハシュム、ハシバダナ、ゼカリヤおよびメシュラムが立った。
 
     -   状況証拠からは、レビ族の出身だった可能性が高いように思う。その中でよく知られた、マタイが呼称だったのか、イエスがそう呼んだのかは不明。
@@ -1413,11 +1421,15 @@
 
     -   レビは、イエスの招きに対して「すると彼は立ち上がって、イエスに従った」と書かれている。ペトロたちのときのように、このときが、最初の出会いではないかもしれない。
 
+        -   おそらく、職を失ったと思われる。ルカ5;28 「彼はいっさいを捨てて立ちあがり」
+
 3.  食卓に同席していたひとたち。
 
-    -   ルカでは、レビが「イエスのために盛大な宴会を催した」とある。
+    -   誰の家か。ルカでは、レビが「イエスのために盛大な宴会を催した」とある。
 
     -   マルコ、マタイからは、イエスについてきた人たちが、一緒に食事の席についていることがわかる。レビが招いたのだろうか。それとも、イエスにたんについてきたのだろうか。
+
+    -   仲間を連れてきたのか。それとも、イエスについてきたひとたちだから、一緒に食事をしたのか。
 
     -   収税人や罪人とは、どのような人だろうか。
 
@@ -1425,13 +1437,15 @@
 
     -   なぜ、イエスにではなく、弟子たちに聞くのか。
 
-    -   聞く目的は？非難？
+    -   聞く目的は？非難？すでに、危険視されていたと思われる。
 
 5.  イエスの答え：「丈夫な人には医者はいらない。いるのは病人である。わたしがきたのは、義人を招くためではなく、罪人を招くためである」
 
     -   イエスにとっては、至極当然のこと。なぜ、疑問に思うのか。
 
     -   義人を招くとは、罪人を招くとは。
+
+    -   マタイ9:13 『わたしが好むのは、あわれみであって、いけにえではない』とはどういう意味か、学んできなさい。は、どのような意味だろうか。
 
 6.  現代では
 
@@ -1444,6 +1458,10 @@
 -   マルコも、マタイも、ルカも「すわっていた」ことを書いている。何を表しているのだろう。
 
 -   マルコと、ルカは、レビ（マルコは、アルパヨの子レビ）、マタイは、マタイとし、マルコと、マタイは、収税所に座っていたことだけ書いているが、ルカは、収税人と明確に書いている。
+
+-   ガリラヤ地方は、ローマ皇帝から領主に任ぜられたエドム人ヘロデ・アンティパスの配下にあった。この徴税を行なっていた。
+
+-   AKP 「幸福な家庭はどれも似たものだが、不幸な家庭はいずれもそれぞれに不幸なものである All happy families are alike; each unhappy family is unhappy in its own way.」レオ・トルストイ著、アンナ・カレーニナ冒頭（[Leo Tolstoy](https://en.wikipedia.org/wiki/Leo_Tolstoy "Leo Tolstoy")'s 1877 novel [*Anna Karenina*](https://en.wikipedia.org/wiki/Anna_Karenina "Anna Karenina")）
 
 ## 2:18-22 断食についての問答
 
