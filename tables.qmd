@@ -39,8 +39,8 @@ knitr::kable(head(excmark, 67))
 ```{r}
 #| message: false
 #| echo: false
-participants <- read_csv("./data/participants.csv") %>%
-  pivot_longer(cols = 3:4, names_to = "参加", values_to = "参加数") %>%
+participants <- read_csv("./data/participants.csv") |>
+  pivot_longer(cols = 3:4, names_to = "参加", values_to = "参加者数") |>
   mutate(参加 = factor(参加, levels = c("遠隔", "対面")))
 ```
 
@@ -48,8 +48,8 @@ participants <- read_csv("./data/participants.csv") %>%
 #| message: false
 #| warning: false
 #| echo: false
-participants %>% drop_na(参加, 登録) %>%
-  ggplot() + geom_col(aes(参加数, 日付, fill = 参加)) +
+participants |> drop_na(参加, 登録) |>
+  ggplot() + geom_col(aes(参加者数, 日付, fill = 参加)) +
   geom_point(aes(登録, 日付)) + 
   labs(title = "参加者数と登録者数（点で表示）", fill = "") 
 ```
