@@ -1795,7 +1795,35 @@
 
 -   マタイ12:15-21 も繋がっている
 
-> **1** Καὶ εἰσῆλθεν πάλιν εἰς τὴν συναγωγήν. καὶ ἦν ἐκεῖ ἄνθρωπος ἐξηραμμένην ἔχων τὴν χεῖρα. **2** καὶ παρετήρουν αὐτὸν εἰ τοῖς σάββασιν θεραπεύσει αὐτόν, ἵνα κατηγορήσωσιν αὐτοῦ. **3** καὶ λέγει τῷ ἀνθρώπῳ τῷ τὴν ξηρὰν χεῖρα ἔχοντι· ἔγειρε εἰς τὸ μέσον. **4** καὶ λέγει αὐτοῖς· ἔξεστιν τοῖς σάββασιν ἀγαθὸν ποιῆσαι ἢ κακοποιῆσαι, ψυχὴν σῶσαι ἢ ἀποκτεῖναι; οἱ δὲ ἐσιώπων. **5** καὶ περιβλεψάμενος αὐτοὺς μετ\' ὀργῆς, συλλυπούμενος ἐπὶ τῇ πωρώσει τῆς καρδίας αὐτῶν λέγει τῷ ἀνθρώπῳ· ἔκτεινον τὴν χεῖρα. καὶ ἐξέτεινεν καὶ ἀπεκατεστάθη ἡ χεὶρ αὐτοῦ. **6** Καὶ ἐξελθόντες οἱ Φαρισαῖοι εὐθὺς μετὰ τῶν Ἡρῳδιανῶν συμβούλιον ἐδίδουν κατ\' αὐτοῦ ὅπως αὐτὸν ἀπολέσωσιν.
+> **1** Καὶ εἰσῆλθεν πάλιν εἰς τὴν συναγωγήν. καὶ ἦν ἐκεῖ ἄνθρωπος ἐξηραμμένην[^markdq-184] ἔχων τὴν χεῖρα. **2** καὶ παρετήρουν[^markdq-185] αὐτὸν εἰ τοῖς σάββασιν θεραπεύσει αὐτόν, ἵνα κατηγορήσωσιν αὐτοῦ. **3** καὶ λέγει τῷ ἀνθρώπῳ τῷ τὴν ξηρὰν χεῖρα ἔχοντι· ἔγειρε[^markdq-186] εἰς τὸ μέσον. **4** καὶ λέγει αὐτοῖς· ἔξεστιν[^markdq-187] τοῖς σάββασιν ἀγαθὸν[^markdq-188] ποιῆσαι ἢ κακοποιῆσαι[^markdq-189], ψυχὴν σῶσαι ἢ ἀποκτεῖναι; οἱ δὲ ἐσιώπων[^markdq-190]. **5** καὶ περιβλεψάμενος[^markdq-191] αὐτοὺς μετ\' ὀργῆς[^markdq-192], συλλυπούμενος[^markdq-193] ἐπὶ τῇ πωρώσει[^markdq-194] τῆς καρδίας αὐτῶν λέγει τῷ ἀνθρώπῳ· ἔκτεινον τὴν χεῖρα. καὶ ἐξέτεινεν καὶ ἀπεκατεστάθη[^markdq-195] ἡ χεὶρ αὐτοῦ. **6** Καὶ ἐξελθόντες οἱ Φαρισαῖοι εὐθὺς μετὰ τῶν Ἡρῳδιανῶν συμβούλιον[^markdq-196] ἐδίδουν κατ\' αὐτοῦ ὅπως αὐτὸν ἀπολέσωσιν[^markdq-197].
+
+[^markdq-184]: ξηραίνω (RPP-ASF): i) to make dry, dry up, wither, ii) to become dry, to be dry, be withered, iii) to waste away, pine away, i.e. a withered hand
+
+[^markdq-185]: παρατηρέω (IAI-3P): to stand beside and watch, to watch assiduously, observe carefully
+
+[^markdq-186]: ἐγείρω (AMM-2S): to arouse, cause to rise
+
+[^markdq-187]: ἔξεστι (PQI-3S): it is lawful
+
+[^markdq-188]: ἀγαθοποιέω: i) to do good, do something which profits others, ii) to do well, do right
+
+[^markdq-189]: κακοποιέω (AAN): i) to do harm, ii) to do evil, do wrong
+
+[^markdq-190]: σιωπάω (IAI-3P): i) to be silent, hold one's peace, ii) metaph. of a calm, quiet sea
+
+[^markdq-191]: περιβλέπω (AMP-NSM): i) to look around, ii) to look around about one's self, iii) to look round on one (i.e. to look for one's self at one near by)
+
+[^markdq-192]: ὀργή: i) anger, the natural disposition, temper, character, ii) movement or agitation of the soul, impulse, desire, any violent emotion, but esp. anger, iii) anger, wrath, indignation, iii) anger exhibited in punishment, hence used for punishment itself
+
+[^markdq-193]: συλλυπέω (PNP-NSM): i) to affect with grief together, ii) give with one's self
+
+[^markdq-194]: πώρωσις (DSF): i) the covering with a callus, ii) obtrusiveness of mental discernment, dulled perception, iii) the mind of one has been blunted
+
+[^markdq-195]: ἀποκαθίστημι (API-3S): i) to restore to its former state, ii) to be in its former state
+
+[^markdq-196]: συμβούλιον (ASN): i) counsel, which is given, taken, entered upon, ii) a council
+
+[^markdq-197]: ἀπόλλυμι (AAS-3P): to destroy
 
 ### 記録
 
