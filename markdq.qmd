@@ -1931,9 +1931,31 @@
 
 ### 参照
 
+-   地図：[キリスト時代のパレスチナ](https://upload.wikimedia.org/wikipedia/commons/1/1f/JBS1956-B_map11.png)、[Palestine in the time of Jesus (1)](https://www.seektheoldpaths.com/Maps/103.jpg)
+
 -   引用：イザヤ42:1-3 わたしの支持するわがしもべ、／わたしの喜ぶわが選び人を見よ。わたしはわが霊を彼に与えた。彼はもろもろの国びとに道をしめす。2 彼は叫ぶことなく、声をあげることなく、／その声をちまたに聞えさせず、3 また傷ついた葦を折ることなく、／ほのぐらい灯心を消すことなく、／真実をもって道をしめす。
 
-> **7** Καὶ ὁ Ἰησοῦς μετὰ τῶν μαθητῶν αὐτοῦ ἀνεχώρησεν πρὸς τὴν θάλασσαν, καὶ πολὺ πλῆθος ἀπὸ τῆς Γαλιλαίας \[ἠκολούθησεν\], καὶ ἀπὸ τῆς Ἰουδαίας **8** καὶ ἀπὸ Ἱεροσολύμων καὶ ἀπὸ τῆς Ἰδουμαίας καὶ πέραν τοῦ Ἰορδάνου καὶ περὶ Τύρον καὶ Σιδῶνα πλῆθος πολὺ ἀκούοντες ὅσα ἐποίει ἦλθον πρὸς αὐτόν. **9** Καὶ εἶπεν τοῖς μαθηταῖς αὐτοῦ ἵνα πλοιάριον προσκαρτερῇ αὐτῷ διὰ τὸν ὄχλον ἵνα μὴ θλίβωσιν αὐτόν· **10** πολλοὺς γὰρ ἐθεράπευσεν, ὥστε ἐπιπίπτειν αὐτῷ ἵνα αὐτοῦ ἅψωνται ὅσοι εἶχον μάστιγας. **11** καὶ τὰ πνεύματα τὰ ἀκάθαρτα, ὅταν αὐτὸν ἐθεώρουν, προσέπιπτον αὐτῷ καὶ ἔκραζον λέγοντες ὅτι σὺ εἶ ὁ υἱὸς τοῦ θεοῦ. **12** καὶ πολλὰ ἐπετίμα αὐτοῖς ἵνα μὴ αὐτὸν φανερὸν ποιήσωσιν.
+> **7** Καὶ ὁ Ἰησοῦς μετὰ τῶν μαθητῶν αὐτοῦ ἀνεχώρησεν[^markdq-198] πρὸς τὴν θάλασσαν, καὶ πολὺ πλῆθος ἀπὸ τῆς Γαλιλαίας \[ἠκολούθησεν[^markdq-199]\], καὶ ἀπὸ τῆς Ἰουδαίας **8** καὶ ἀπὸ Ἱεροσολύμων καὶ ἀπὸ τῆς Ἰδουμαίας καὶ πέραν τοῦ Ἰορδάνου καὶ περὶ Τύρον καὶ Σιδῶνα πλῆθος πολὺ ἀκούοντες ὅσα ἐποίει ἦλθον πρὸς αὐτόν. **9** Καὶ εἶπεν τοῖς μαθηταῖς αὐτοῦ ἵνα πλοιάριον[^markdq-200] προσκαρτερῇ[^markdq-201] αὐτῷ διὰ τὸν ὄχλον ἵνα μὴ θλίβωσιν[^markdq-202] αὐτόν· **10** πολλοὺς γὰρ ἐθεράπευσεν[^markdq-203], ὥστε ἐπιπίπτειν[^markdq-204] αὐτῷ ἵνα αὐτοῦ ἅψωνται[^markdq-205] ὅσοι εἶχον μάστιγας[^markdq-206]. **11** καὶ τὰ πνεύματα τὰ ἀκάθαρτα[^markdq-207], ὅταν αὐτὸν ἐθεώρουν, προσέπιπτον αὐτῷ καὶ ἔκραζον λέγοντες ὅτι σὺ εἶ ὁ υἱὸς τοῦ θεοῦ. **12** καὶ πολλὰ ἐπετίμα αὐτοῖς ἵνα μὴ αὐτὸν φανερὸν ποιήσωσιν.
+
+[^markdq-198]: ἀναχωρέω (AAI-3S): i) to go back, return, ii) to withdraw
+
+[^markdq-199]: ἀκολουθέω (AAI-3P): i) to follow one who precedes, join him as his attendant, accompany him, ii) to join one as a disciple, become or be his disciple
+
+[^markdq-200]: πλοιάριον (NSN): a small vessel, a boat
+
+[^markdq-201]: προσκαρτερέω (PAS-3S): i) to adhere to one, be his adherent, to be devoted or constant to one, ii) to be steadfastly attentive unto, to give unremitting care to a thing, iii) to continue all the time in a place, iv) to persevere and not to faint, v) to show one's self courageous for, vi) to be in constant readiness for one, wait on constantly
+
+[^markdq-202]: θλίβω (PAS-3P): i) to press (as grapes), press hard upon, ii) a compressed way, iii) metaph. to trouble, afflict, distress
+
+[^markdq-203]: θεραπεύω (AAI-3S): i) to serve, do service, ii) to heal, cure, restore to health
+
+[^markdq-204]: ἐπιπίπτω (PAN): i) to fall upon, to rush or press upon, ii) to fall upon one i.e. to seize, take possession of him
+
+[^markdq-205]: ἅπτομαι (AMS-3P): to fasten one's self to, adhere to, cling to
+
+[^markdq-206]: μάστιξ (APF): i) a whip, scourge, ii) metaph. a scourge, plague
+
+[^markdq-207]: ἀκάθαρτος (NPN): not cleansed, unclean a) in a ceremonial sense: that which must be abstained from according to the levitical law, b) in a moral sense: unclean in thought and life
 
 ### 問いについて
 
