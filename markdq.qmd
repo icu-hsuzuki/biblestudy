@@ -2079,11 +2079,31 @@
 
 ### 参照
 
-> **13** Καὶ ἀναβαίνει εἰς τὸ ὄρος καὶ προσκαλεῖται οὓς ἤθελεν αὐτός, καὶ ἀπῆλθον πρὸς αὐτόν. **14** Καὶ ἐποίησεν δώδεκα \[οὓς καὶ ἀποστόλους ὠνόμασεν\] ἵνα ὦσιν μετ\' αὐτοῦ καὶ ἵνα ἀποστέλλῃ αὐτοὺς κηρύσσειν **15** καὶ ἔχειν ἐξουσίαν ἐκβάλλειν τὰ δαιμόνια·**16** \[Καὶ ἐποίησεν τοὺς δώδεκα,\] καὶ ἐπέθηκεν ὄνομα τῷ Σίμωνι Πέτρον, **17** καὶ Ἰάκωβον τὸν τοῦ Ζεβεδαίου καὶ Ἰωάννην τὸν ἀδελφὸν τοῦ Ἰακώβου καὶ ἐπέθηκεν αὐτοῖς ὀνόμα \[τα\] Βοανηργές, ὅ ἐστιν υἱοὶ βροντῆς· **18** καὶ Ἀνδρέαν καὶ Φίλιππον καὶ Βαρθολομαῖον καὶ Μαθθαῖον καὶ Θωμᾶν καὶ Ἰάκωβον τὸν τοῦ Ἁλφαίου καὶ Θαδδαῖον καὶ Σίμωνα τὸν Καναναῖον **19** καὶ Ἰούδαν Ἰσκαριώθ, ὃς καὶ παρέδωκεν αὐτόν.
+-   **十二弟子を選ぶ直前：**マタイ9:35-38 イエスは、すべての町々村々を巡り歩いて、諸会堂で教え、御国の福音を宣べ伝え、あらゆる病気、あらゆるわずらいをおいやしになった。36 また群衆が飼う者のない羊のように弱り果てて、倒れているのをごらんになって、彼らを深くあわれまれた。37 そして弟子たちに言われた、「収穫は多いが、働き人が少ない。38 だから、収穫の主に願って、その収穫のために働き人を送り出すようにしてもらいなさい」。
+
+-   **十二弟子を選ぶ直後：**ルカ6:17-19 そして、イエスは彼らと一緒に山を下って平地に立たれたが、大ぜいの弟子たちや、ユダヤ全土、エルサレム、ツロとシドンの海岸地方などからの大群衆が、18 教を聞こうとし、また病気をなおしてもらおうとして、そこにきていた。そして汚れた霊に悩まされている者たちも、いやされた。19 また群衆はイエスにさわろうと努めた。それは力がイエスの内から出て、みんなの者を次々にいやしたからである。
+
+-   熱心党：参照（聖書に登場するのは十二弟子の箇所のみ）
+
+> **13** Καὶ ἀναβαίνει[^markdq-208] εἰς τὸ ὄρος καὶ προσκαλεῖται[^markdq-209] οὓς ἤθελεν αὐτός, καὶ ἀπῆλθον[^markdq-210] πρὸς αὐτόν. **14** Καὶ ἐποίησεν[^markdq-211] δώδεκα \[οὓς καὶ ἀποστόλους ὠνόμασεν\] ἵνα ὦσιν μετ\' αὐτοῦ καὶ ἵνα ἀποστέλλῃ[^markdq-212] αὐτοὺς κηρύσσειν[^markdq-213] **15** καὶ ἔχειν ἐξουσίαν[^markdq-214] ἐκβάλλειν τὰ δαιμόνια·**16** \[Καὶ ἐποίησεν τοὺς δώδεκα,\] καὶ ἐπέθηκεν ὄνομα τῷ Σίμωνι Πέτρον, **17** καὶ Ἰάκωβον τὸν τοῦ Ζεβεδαίου καὶ Ἰωάννην τὸν ἀδελφὸν τοῦ Ἰακώβου καὶ ἐπέθηκεν αὐτοῖς ὀνόμα \[τα\] Βοανηργές, ὅ ἐστιν υἱοὶ βροντῆς· **18** καὶ Ἀνδρέαν καὶ Φίλιππον καὶ Βαρθολομαῖον καὶ Μαθθαῖον καὶ Θωμᾶν καὶ Ἰάκωβον τὸν τοῦ Ἁλφαίου καὶ Θαδδαῖον καὶ Σίμωνα τὸν Καναναῖον **19** καὶ Ἰούδαν Ἰσκαριώθ, ὃς καὶ παρέδωκεν αὐτόν.
+
+[^markdq-208]: ἀναβαίνω (PAI-3S): ascend, go up
+
+[^markdq-209]: προσκαλέω (PNI-3S): i) to call to, ii) to call to one's self, iii) to bid to come to one's self, iv) metaph. a) God is said to call to himself the Gentiles, aliens as they are from him, by inviting them, through the preaching of the gospel unto fellowship with himself in the Messiah's kingdom, b) Christ and the Holy Sprit are said to call to themselves those preachers of the gospel to whom they have decided to intrust a service having reference to the extension of the gospel
+
+[^markdq-210]: ἀπέρχομαι (2AAi-3P): i) to go away, depart, ii) to go away
+
+[^markdq-211]: ποιέω (AAI-3S): i) to make, ii) to do
+
+[^markdq-212]: ἀποστέλλω (PAS-3S): i) to order (one) to go to a place appointed, ii) to send away, dismiss
+
+[^markdq-213]: κηρύσσω (PAN): i) to be a herald, to officiate as a herald, ii) to publish, proclaim openly: something which has been done, iii) used of the public proclamation of the gospel and matters pertaining to it, made by John the Baptist, by Jesus, by the apostles and other Christian teachers
+
+[^markdq-214]: ἐξουσία: i) power of choice, liberty of doing as one pleases, ii) physical and mental power, iii) the power of authority (influence) and of right (privilege), iv) the power of rule or government (the power of him whose will and commands must be submitted to by others and obeyed)
 
 ### 記録
 
--   日時：2023年M月DD日午後7時半〜9時半
+-   日時：2023年8月3日午後7時半〜9時半
 
 -   出席（対面）X名、参加（遠隔）Y名
 
