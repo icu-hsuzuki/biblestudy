@@ -852,7 +852,7 @@ GPT4.
 
 ### マリアについて {#sec-マリアについて}
 
-**Q. カトリックにおいて、聖母マリアの無原罪の御宿り（Immaculate Conception）、および被昇天（Immaculate Conception）は、どのような根拠に基づいているとしているのでしょうか。**
+**Q. カトリックにおいて、聖母マリアの無原罪の御宿り（Immaculate Conception）、および被昇天（Assumption）は、どのような根拠に基づいているとしているのでしょうか。**
 
 **ChatGPT**
 
