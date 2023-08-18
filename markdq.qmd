@@ -2531,9 +2531,35 @@
 
 ### 参照
 
--   ルカ8:1-3 そののちイエスは、神の国の福音を説きまた伝えながら、町々村々を巡回し続けられたが、十二弟子もお供をした。2 また悪霊を追い出され病気をいやされた数名の婦人たち、すなわち、七つの悪霊を追い出してもらったマグダラと呼ばれるマリヤ、3 ヘロデの家令クーザの妻ヨハンナ、スザンナ、そのほか多くの婦人たちも一緒にいて、自分たちの持ち物をもって一行に奉仕した。 
+-   ルカ直前の記事：ルカ8:1-3 そののちイエスは、神の国の福音を説きまた伝えながら、町々村々を巡回し続けられたが、十二弟子もお供をした。2 また悪霊を追い出され病気をいやされた数名の婦人たち、すなわち、七つの悪霊を追い出してもらったマグダラと呼ばれるマリヤ、3 ヘロデの家令クーザの妻ヨハンナ、スザンナ、そのほか多くの婦人たちも一緒にいて、自分たちの持ち物をもって一行に奉仕した。 
 
-> **1** Καὶ πάλιν ἤρξατο διδάσκειν παρὰ τὴν θάλασσαν· καὶ συνάγεται πρὸς αὐτὸν ὄχλος πλεῖστος, ὥστε αὐτὸν εἰς πλοῖον ἐμβάντα καθῆσθαι ἐν τῇ θαλάσσῃ, καὶ πᾶς ὁ ὄχλος πρὸς τὴν θάλασσαν ἐπὶ τῆς γῆς ἦσαν. **2** καὶ ἐδίδασκεν αὐτοὺς ἐν παραβολαῖς πολλὰ καὶ ἔλεγεν αὐτοῖς ἐν τῇ διδαχῇ αὐτοῦ· **3** Ἀκούετε. ἰδοὺ ἐξῆλθεν ὁ σπείρων σπεῖραι. **4** καὶ ἐγένετο ἐν τῷ σπείρειν ὃ μὲν ἔπεσεν παρὰ τὴν ὁδόν, καὶ ἦλθεν τὰ πετεινὰ καὶ κατέφαγεν αὐτό. **5** καὶ ἄλλο ἔπεσεν ἐπὶ τὸ πετρῶδες ὅπου οὐκ εἶχεν γῆν πολλήν, καὶ εὐθὺς ἐξανέτειλεν διὰ τὸ μὴ ἔχειν βάθος γῆς· **6** καὶ ὅτε ἀνέτειλεν ὁ ἥλιος ἐκαυματίσθη καὶ διὰ τὸ μὴ ἔχειν ῥίζαν ἐξηράνθη. **7** καὶ ἄλλο ἔπεσεν εἰς τὰς ἀκάνθας, καὶ ἀνέβησαν αἱ ἄκανθαι καὶ συνέπνιξαν αὐτό, καὶ καρπὸν οὐκ ἔδωκεν. **8** καὶ ἄλλα ἔπεσεν εἰς τὴν γῆν τὴν καλὴν καὶ ἐδίδου καρπὸν ἀναβαίνοντα καὶ αὐξανόμενα καὶ ἔφερεν ἓν τριάκοντα καὶ ἓν ἑξήκοντα καὶ ἓν ἑκατόν. **9** καὶ ἔλεγεν· ὃς ἔχει ὦτα ἀκούειν ἀκουέτω.
+> **1** Καὶ πάλιν ἤρξατο διδάσκειν παρὰ τὴν θάλασσαν· καὶ συνάγεται[^markdq-231] πρὸς αὐτὸν ὄχλος πλεῖστος, ὥστε αὐτὸν εἰς πλοῖον ἐμβάντα καθῆσθαι ἐν τῇ θαλάσσῃ, καὶ πᾶς ὁ ὄχλος πρὸς τὴν θάλασσαν ἐπὶ τῆς γῆς ἦσαν. **2** καὶ ἐδίδασκεν αὐτοὺς ἐν παραβολαῖς[^markdq-232] πολλὰ καὶ ἔλεγεν αὐτοῖς ἐν τῇ διδαχῇ αὐτοῦ· **3** Ἀκούετε. ἰδοὺ ἐξῆλθεν ὁ σπείρων σπεῖραι[^markdq-233]. **4** καὶ ἐγένετο ἐν τῷ σπείρειν ὃ μὲν ἔπεσεν παρὰ τὴν ὁδόν, καὶ ἦλθεν τὰ πετεινὰ[^markdq-234] καὶ κατέφαγεν[^markdq-235] αὐτό. **5** καὶ ἄλλο ἔπεσεν ἐπὶ τὸ πετρῶδες[^markdq-236] ὅπου οὐκ εἶχεν γῆν πολλήν, καὶ εὐθὺς ἐξανέτειλεν[^markdq-237] διὰ τὸ μὴ ἔχειν βάθος γῆς· **6** καὶ ὅτε ἀνέτειλεν ὁ ἥλιος ἐκαυματίσθη[^markdq-238] καὶ διὰ τὸ μὴ ἔχειν ῥίζαν[^markdq-239] ἐξηράνθη[^markdq-240]. **7** καὶ ἄλλο ἔπεσεν εἰς τὰς ἀκάνθας[^markdq-241], καὶ ἀνέβησαν[^markdq-242] αἱ ἄκανθαι καὶ συνέπνιξαν[^markdq-243] αὐτό, καὶ καρπὸν οὐκ ἔδωκεν. **8** καὶ ἄλλα ἔπεσεν εἰς τὴν γῆν τὴν καλὴν καὶ ἐδίδου καρπὸν ἀναβαίνοντα καὶ αὐξανόμενα καὶ ἔφερεν ἓν τριάκοντα καὶ ἓν ἑξήκοντα καὶ ἓν ἑκατόν. **9** καὶ ἔλεγεν· ὃς ἔχει ὦτα ἀκούειν ἀκουέτω.
+
+[^markdq-231]: συνάγω (API-3S): i) to gather together, to gather, ii) to bring together, assemble, collect, iii) to lead with one's self
+
+[^markdq-232]: παραβολή (DOF): i) a placing of one thing by the side of another, juxtaposition, as of ships in battle, ii) metaph. a) a comparing, comparison of one thing with another, likeness, similitude b) an example by which a doctrine or precept is illustrated c) a narrative, fictitious but agreeable to the laws and usages of human life, by which either the duties of men or the things of God, particularly the nature and history of God's kingdom are figuratively portrayed, d) a parable: an earthly story with a heavenly meaning, iii) a pithy and instructive saying, involving some likeness or comparison and having preceptive or admonitory force, a) an aphorism, a maxim, iv) a proverb, v) an act by which one exposes himself or his possessions to danger, a venture, a risk
+
+[^markdq-233]: σπείρω (AAN): i) to sow, scatter, seed, ii) metaph. of proverbial sayings
+
+[^markdq-234]: πετεινόν: i) flying, winged, ii) flying or winged animals, birds
+
+[^markdq-235]: κατεσθίω (2AAI-3S): i) to consume by eating, to eat up, devour, ii) metaph.
+
+[^markdq-236]: πετρώδης (ASN): rocky, stony
+
+[^markdq-237]: ἐξανατέλλω: i) to make spring up, cause to shoot forth, ii) to spring up
+
+[^markdq-238]: καυματίζω: i) to burn with heat, to scorch, ii) to be tortured with intense heat
+
+[^markdq-239]: ῥίζα: i) a root, ii) that which like a root springs from a root, a sprout, shoot, iii) metaph. offspring, progeny
+
+[^markdq-240]: ξηραίνω (API-3S): i) to make dry, dry up, wither, ii) to become dry, to be dry, be withered, iii) to waste away, pine away, i.e. a withered hand
+
+[^markdq-241]: ἄκανθα (APS): i) thorn, bramble, ii) bush, brier, a thorny plant
+
+[^markdq-242]: ἀναβαίνω: ascend, a) to go up, b) to rise, mount, be borne up, spring up
+
+[^markdq-243]: συμπνίγω: to choke utterly, a) metaph. the seed of the divine word sown in the mind, b) to press round or throng one so as almost to suffocate him
 
 ### 記録
 
