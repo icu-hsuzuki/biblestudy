@@ -2946,7 +2946,23 @@
 
 -   ルカ19:26 『あなたがたに言うが、おおよそ持っている人には、なお与えられ、持っていない人からは、持っているものまでも取り上げられるであろう。 
 
-> 21 Καὶ ἔλεγεν αὐτοῖς· μήτι ἔρχεται ὁ λύχνος ἵνα ὑπὸ τὸν μόδιον τεθῇ ἢ ὑπὸ τὴν κλίνην; οὐχ ἵνα ἐπὶ τὴν λυχνίαν τεθῇ; 22 οὐ γάρ ἐστιν κρυπτὸν ἐὰν μὴ ἵνα φανερωθῇ, οὐδὲ ἐγένετο ἀπόκρυφον ἀλλ' ἵνα ἔλθῃ εἰς φανερόν. 23 εἴ τις ἔχει ὦτα ἀκούειν ἀκουέτω. 24 Καὶ ἔλεγεν αὐτοῖς· βλέπετε τί ἀκούετε. ἐν ᾧ μέτρῳ μετρεῖτε μετρηθήσεται ὑμῖν καὶ προστεθήσεται ὑμῖν. 25ὃς γὰρ ἔχει, δοθήσεται αὐτῷ· καὶ ὃς οὐκ ἔχει, καὶ ὃ ἔχει ἀρθήσεται ἀπ' αὐτοῦ.
+> 21 Καὶ ἔλεγεν αὐτοῖς· μήτι[^markdq-266] ἔρχεται ὁ λύχνος[^markdq-267] ἵνα ὑπὸ τὸν μόδιον[^markdq-268] τεθῇ ἢ ὑπὸ τὴν κλίνην[^markdq-269]; οὐχ ἵνα ἐπὶ τὴν λυχνίαν τεθῇ; 22 οὐ γάρ ἐστιν κρυπτὸν[^markdq-270] ἐὰν μὴ ἵνα φανερωθῇ[^markdq-271], οὐδὲ ἐγένετο ἀπόκρυφον ἀλλ' ἵνα ἔλθῃ εἰς φανερόν. 23 εἴ τις ἔχει ὦτα ἀκούειν ἀκουέτω. 24 Καὶ ἔλεγεν αὐτοῖς· βλέπετε τί ἀκούετε. ἐν ᾧ μέτρῳ[^markdq-272] μετρεῖτε μετρηθήσεται ὑμῖν καὶ προστεθήσεται ὑμῖν. 25ὃς γὰρ ἔχει, δοθήσεται αὐτῷ· καὶ ὃς οὐκ ἔχει, καὶ ὃ ἔχει ἀρθήσεται[^markdq-273] ἀπ' αὐτοῦ.
+
+[^markdq-266]: μήτι: whether, at all, perchance
+
+[^markdq-267]: λύχνος: a lamp, candle, that is placed on a stand or candlestick
+
+[^markdq-268]: μόδιος: a dry measure holding 16 sextarii (or 1/6 of the Attic medimnus), about a peck (9 litres)
+
+[^markdq-269]: κλίνη: i) a small bed, a couch, ii) a couch to recline on at meals, iii) a couch on which a sick man is carried
+
+[^markdq-270]: κρυπτός: hidden, concealed, secret
+
+[^markdq-271]: φανερόω: to make manifest or visible or known what has been hidden or unknown, to manifest, whether by words, or deeds, or in any other way
+
+[^markdq-272]: μέτρον: i) measure, an instrument for measuring, ii) determined extent, portion measured off, measure or limit
+
+[^markdq-273]: αἴρω: i) to raise up, elevate, lift up, ii) to take upon one's self and carry what has been raised up, to bear, iii) to bear away what has been raised, carry off
 
 ### 記録
 
