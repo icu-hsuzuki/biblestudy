@@ -1,4 +1,3 @@
-
 ## 4:1-9 「種を蒔く人」のたとえ
 
 > 4:1 イエスはまたも、海べで教えはじめられた。おびただしい群衆がみもとに集まったので、イエスは舟に乗ってすわったまま、海上におられ、群衆はみな海に沿って陸地にいた。2 イエスは譬で多くの事を教えられたが、その教の中で彼らにこう言われた、 3 「聞きなさい、種まきが種をまきに出て行った。4 まいているうちに、道ばたに落ちた種があった。すると、鳥がきて食べてしまった。 5 ほかの種は土の薄い石地に落ちた。そこは土が深くないので、すぐ芽を出したが、6 日が上ると焼けて、根がないために枯れてしまった。 7 ほかの種はいばらの中に落ちた。すると、いばらが伸びて、ふさいでしまったので、実を結ばなかった。 8 ほかの種は良い地に落ちた。そしてはえて、育って、ますます実を結び、三十倍、六十倍、百倍にもなった」。9 そして言われた、「聞く耳のある者は聞くがよい」。
@@ -45,33 +44,33 @@
     -   マルコ3:9 イエスは群衆が自分に押し迫るのを避けるために、小**舟**を用意しておけと、弟子たちに命じられた。
     -   ルカ5:3 その一そうはシモンの**舟**であったが、イエスはそれに乗り込み、シモンに頼んで岸から少しこぎ出させ、そしてすわって、**舟**の中から群衆にお教えになった。
 
-> **1** Καὶ πάλιν ἤρξατο διδάσκειν παρὰ τὴν θάλασσαν· καὶ συνάγεται[^markdq-231] πρὸς αὐτὸν ὄχλος πλεῖστος, ὥστε αὐτὸν εἰς πλοῖον ἐμβάντα καθῆσθαι ἐν τῇ θαλάσσῃ, καὶ πᾶς ὁ ὄχλος πρὸς τὴν θάλασσαν ἐπὶ τῆς γῆς ἦσαν. **2** καὶ ἐδίδασκεν αὐτοὺς ἐν παραβολαῖς[^markdq-232] πολλὰ καὶ ἔλεγεν αὐτοῖς ἐν τῇ διδαχῇ αὐτοῦ· **3** Ἀκούετε. ἰδοὺ ἐξῆλθεν ὁ σπείρων σπεῖραι[^markdq-233]. **4** καὶ ἐγένετο ἐν τῷ σπείρειν ὃ μὲν ἔπεσεν παρὰ τὴν ὁδόν, καὶ ἦλθεν τὰ πετεινὰ[^markdq-234] καὶ κατέφαγεν[^markdq-235] αὐτό. **5** καὶ ἄλλο ἔπεσεν ἐπὶ τὸ πετρῶδες[^markdq-236] ὅπου οὐκ εἶχεν γῆν πολλήν, καὶ εὐθὺς ἐξανέτειλεν[^markdq-237] διὰ τὸ μὴ ἔχειν βάθος γῆς· **6** καὶ ὅτε ἀνέτειλεν ὁ ἥλιος ἐκαυματίσθη[^markdq-238] καὶ διὰ τὸ μὴ ἔχειν ῥίζαν[^markdq-239] ἐξηράνθη[^markdq-240]. **7** καὶ ἄλλο ἔπεσεν εἰς τὰς ἀκάνθας[^markdq-241], καὶ ἀνέβησαν[^markdq-242] αἱ ἄκανθαι καὶ συνέπνιξαν[^markdq-243] αὐτό, καὶ καρπὸν οὐκ ἔδωκεν. **8** καὶ ἄλλα ἔπεσεν εἰς τὴν γῆν τὴν καλὴν καὶ ἐδίδου καρπὸν ἀναβαίνοντα καὶ αὐξανόμενα καὶ ἔφερεν ἓν τριάκοντα καὶ ἓν ἑξήκοντα καὶ ἓν ἑκατόν. **9** καὶ ἔλεγεν· ὃς ἔχει ὦτα ἀκούειν ἀκουέτω.
+> **1** Καὶ πάλιν ἤρξατο διδάσκειν παρὰ τὴν θάλασσαν· καὶ συνάγεται[^markdq4-1] πρὸς αὐτὸν ὄχλος πλεῖστος, ὥστε αὐτὸν εἰς πλοῖον ἐμβάντα καθῆσθαι ἐν τῇ θαλάσσῃ, καὶ πᾶς ὁ ὄχλος πρὸς τὴν θάλασσαν ἐπὶ τῆς γῆς ἦσαν. **2** καὶ ἐδίδασκεν αὐτοὺς ἐν παραβολαῖς[^markdq4-2] πολλὰ καὶ ἔλεγεν αὐτοῖς ἐν τῇ διδαχῇ αὐτοῦ· **3** Ἀκούετε. ἰδοὺ ἐξῆλθεν ὁ σπείρων σπεῖραι[^markdq4-3]. **4** καὶ ἐγένετο ἐν τῷ σπείρειν ὃ μὲν ἔπεσεν παρὰ τὴν ὁδόν, καὶ ἦλθεν τὰ πετεινὰ[^markdq4-4] καὶ κατέφαγεν[^markdq4-5] αὐτό. **5** καὶ ἄλλο ἔπεσεν ἐπὶ τὸ πετρῶδες[^markdq4-6] ὅπου οὐκ εἶχεν γῆν πολλήν, καὶ εὐθὺς ἐξανέτειλεν[^markdq4-7] διὰ τὸ μὴ ἔχειν βάθος γῆς· **6** καὶ ὅτε ἀνέτειλεν ὁ ἥλιος ἐκαυματίσθη[^markdq4-8] καὶ διὰ τὸ μὴ ἔχειν ῥίζαν[^markdq4-9] ἐξηράνθη[^markdq4-10]. **7** καὶ ἄλλο ἔπεσεν εἰς τὰς ἀκάνθας[^markdq4-11], καὶ ἀνέβησαν[^markdq4-12] αἱ ἄκανθαι καὶ συνέπνιξαν[^markdq4-13] αὐτό, καὶ καρπὸν οὐκ ἔδωκεν. **8** καὶ ἄλλα ἔπεσεν εἰς τὴν γῆν τὴν καλὴν καὶ ἐδίδου καρπὸν ἀναβαίνοντα καὶ αὐξανόμενα καὶ ἔφερεν ἓν τριάκοντα καὶ ἓν ἑξήκοντα καὶ ἓν ἑκατόν. **9** καὶ ἔλεγεν· ὃς ἔχει ὦτα ἀκούειν ἀκουέτω.
 
-[^markdq-231]: συνάγω (API-3S): i) to gather together, to gather, ii) to bring together, assemble, collect, iii) to lead with one's self
+[^markdq4-1]: συνάγω (API-3S): i) to gather together, to gather, ii) to bring together, assemble, collect, iii) to lead with one's self
 
-[^markdq-232]: παραβολή (DOF): i) a placing of one thing by the side of another, juxtaposition, as of ships in battle, ii) metaph. a) a comparing, comparison of one thing with another, likeness, similitude b) an example by which a doctrine or precept is illustrated c) a narrative, fictitious but agreeable to the laws and usages of human life, by which either the duties of men or the things of God, particularly the nature and history of God's kingdom are figuratively portrayed, d) a parable: an earthly story with a heavenly meaning, iii) a pithy and instructive saying, involving some likeness or comparison and having preceptive or admonitory force, a) an aphorism, a maxim, iv) a proverb, v) an act by which one exposes himself or his possessions to danger, a venture, a risk
+[^markdq4-2]: παραβολή (DOF): i) a placing of one thing by the side of another, juxtaposition, as of ships in battle, ii) metaph. a) a comparing, comparison of one thing with another, likeness, similitude b) an example by which a doctrine or precept is illustrated c) a narrative, fictitious but agreeable to the laws and usages of human life, by which either the duties of men or the things of God, particularly the nature and history of God's kingdom are figuratively portrayed, d) a parable: an earthly story with a heavenly meaning, iii) a pithy and instructive saying, involving some likeness or comparison and having preceptive or admonitory force, a) an aphorism, a maxim, iv) a proverb, v) an act by which one exposes himself or his possessions to danger, a venture, a risk
 
-[^markdq-233]: σπείρω (AAN): i) to sow, scatter, seed, ii) metaph. of proverbial sayings
+[^markdq4-3]: σπείρω (AAN): i) to sow, scatter, seed, ii) metaph. of proverbial sayings
 
-[^markdq-234]: πετεινόν: i) flying, winged, ii) flying or winged animals, birds
+[^markdq4-4]: πετεινόν: i) flying, winged, ii) flying or winged animals, birds
 
-[^markdq-235]: κατεσθίω (2AAI-3S): i) to consume by eating, to eat up, devour, ii) metaph.
+[^markdq4-5]: κατεσθίω (2AAI-3S): i) to consume by eating, to eat up, devour, ii) metaph.
 
-[^markdq-236]: πετρώδης (ASN): rocky, stony
+[^markdq4-6]: πετρώδης (ASN): rocky, stony
 
-[^markdq-237]: ἐξανατέλλω: i) to make spring up, cause to shoot forth, ii) to spring up
+[^markdq4-7]: ἐξανατέλλω: i) to make spring up, cause to shoot forth, ii) to spring up
 
-[^markdq-238]: καυματίζω: i) to burn with heat, to scorch, ii) to be tortured with intense heat
+[^markdq4-8]: καυματίζω: i) to burn with heat, to scorch, ii) to be tortured with intense heat
 
-[^markdq-239]: ῥίζα: i) a root, ii) that which like a root springs from a root, a sprout, shoot, iii) metaph. offspring, progeny
+[^markdq4-9]: ῥίζα: i) a root, ii) that which like a root springs from a root, a sprout, shoot, iii) metaph. offspring, progeny
 
-[^markdq-240]: ξηραίνω (API-3S): i) to make dry, dry up, wither, ii) to become dry, to be dry, be withered, iii) to waste away, pine away, i.e. a withered hand
+[^markdq4-10]: ξηραίνω (API-3S): i) to make dry, dry up, wither, ii) to become dry, to be dry, be withered, iii) to waste away, pine away, i.e. a withered hand
 
-[^markdq-241]: ἄκανθα (APS): i) thorn, bramble, ii) bush, brier, a thorny plant
+[^markdq4-11]: ἄκανθα (APS): i) thorn, bramble, ii) bush, brier, a thorny plant
 
-[^markdq-242]: ἀναβαίνω: ascend, a) to go up, b) to rise, mount, be borne up, spring up
+[^markdq4-12]: ἀναβαίνω: ascend, a) to go up, b) to rise, mount, be borne up, spring up
 
-[^markdq-243]: συμπνίγω: to choke utterly, a) metaph. the seed of the divine word sown in the mind, b) to press round or throng one so as almost to suffocate him
+[^markdq4-13]: συμπνίγω: to choke utterly, a) metaph. the seed of the divine word sown in the mind, b) to press round or throng one so as almost to suffocate him
 
 ### 記録
 
@@ -170,13 +169,13 @@
     -   申命記29:4 (or 3) しかし、今日まで主はあなたがたの心に悟らせず、目に見させず、耳に聞かせられなかった。
     -   イザヤ29:10 主が深い眠りの霊をあなたがたの上にそそぎ、／あなたがたの目である預言者を閉じこめ、／あなたがたの頭である先見者を／おおわれたからである。
 
-> **10** Καὶ ὅτε ἐγένετο κατὰ μόνας, ἠρώτων[^markdq-244] αὐτὸν οἱ περὶ αὐτὸν σὺν τοῖς δώδεκα τὰς παραβολάς. **11** καὶ ἔλεγεν αὐτοῖς· ὑμῖν τὸ μυστήριον δέδοται τῆς βασιλείας τοῦ θεοῦ· ἐκείνοις δὲ τοῖς ἔξω[^markdq-245] ἐν παραβολαῖς τὰ πάντα γίνεται[^markdq-246], **12** ἵνα *βλέποντες βλέπωσιν καὶ μὴ ἴδωσιν,* *καὶ ἀκούοντες ἀκούωσιν καὶ μὴ συνιῶσιν,* μήποτε *ἐπιστρέψωσιν* καὶ *ἀφεθῇ αὐτοῖς*.
+> **10** Καὶ ὅτε ἐγένετο κατὰ μόνας, ἠρώτων[^markdq4-14] αὐτὸν οἱ περὶ αὐτὸν σὺν τοῖς δώδεκα τὰς παραβολάς. **11** καὶ ἔλεγεν αὐτοῖς· ὑμῖν τὸ μυστήριον δέδοται τῆς βασιλείας τοῦ θεοῦ· ἐκείνοις δὲ τοῖς ἔξω[^markdq4-15] ἐν παραβολαῖς τὰ πάντα γίνεται[^markdq4-16], **12** ἵνα *βλέποντες βλέπωσιν καὶ μὴ ἴδωσιν,* *καὶ ἀκούοντες ἀκούωσιν καὶ μὴ συνιῶσιν,* μήποτε *ἐπιστρέψωσιν* καὶ *ἀφεθῇ αὐτοῖς*.
 
-[^markdq-244]: ἐρωτάω (AAI-3P): i) to question, ii) to ask
+[^markdq4-14]: ἐρωτάω (AAI-3P): i) to question, ii) to ask
 
-[^markdq-245]: ἔξω: without, out of doors
+[^markdq4-15]: ἔξω: without, out of doors
 
-[^markdq-246]: γίνομαι: i) to become, i.e. to come into existence, begin to be, receive being, ii) to become, i.e. to come to pass, happen, iii) to arise, appear in history, come upon the stage, iv) to be made, finished, v) to become, be made
+[^markdq4-16]: γίνομαι: i) to become, i.e. to come into existence, begin to be, receive being, ii) to become, i.e. to come to pass, happen, iii) to arise, appear in history, come upon the stage, iv) to be made, finished, v) to become, be made
 
 マタイ13:10-17
 
@@ -245,11 +244,11 @@
     -   イエスは、つねに守ってくれる。レビの家での会食の時。麦の穂を摘んで食べていた時。他にもあるように思える。
     -   共に、働くことができる。舟を用意する。派遣される。他にもあるように思える。
     -   もっと一般的に、神様の御心を知ることなのかもしれない。イエスと共に歩むこと、イエスに従っていくことに勝るものはないように思う。一つのことでは、ないように思う。「神の御心を行う人」（マタイ12:50）になることなのかもしれない。一点ではなく、ずっと継続的に、イエスに従って歩むことだろうか。
--   Matt 13:11b: あなたがたには、天国の奥義を**知ること**が許されているが、彼らには許されていない。ὅτι ὑμῖν δέδοται γνῶναι[^markdq-247] τὰ μυστήρια τῆς βασιλείας τῶν οὐρανῶν, ἐκείνοις δὲ οὐ δέδοται.
+-   Matt 13:11b: あなたがたには、天国の奥義を**知ること**が許されているが、彼らには許されていない。ὅτι ὑμῖν δέδοται γνῶναι[^markdq4-17] τὰ μυστήρια τῆς βασιλείας τῶν οὐρανῶν, ἐκείνοις δὲ οὐ δέδοται.
 -   かたくなにするメッセージ：聖霊による導き、語りかけがあり、それに応答する悔い改めが、同時に促されている。まさに、聞く耳のあるものは、聞きなさい。
 -   イザヤの部分は、マルコだけではなく、ルカでもほとんど触れていないので、イエスは、イザヤの言葉として、引用したのではないかもしれない。
 
-[^markdq-247]: γινώσκω: i) to learn to know, come to know, get a knowledge of perceive, feel, ii) to know, understand, perceive, have knowledge of, iii) sexual intercourse between a man and a woman, iv) to become acquainted with, to know
+[^markdq4-17]: γινώσκω: i) to learn to know, come to know, get a knowledge of perceive, feel, ii) to know, understand, perceive, have knowledge of, iii) sexual intercourse between a man and a woman, iv) to become acquainted with, to know
 
 ## 4:13-20 「種を蒔く人」のたとえの説明
 
@@ -289,43 +288,43 @@
 
     -   マルコ8:33 イエスは振り返って、弟子たちを見ながら、ペテロをしかって言われた、「**サタン**よ、引きさがれ。あなたは神のことを思わないで、人のことを思っている」。
 
-> 13 Καὶ λέγει αὐτοῖς· οὐκ οἴδατε[^markdq-248] τὴν παραβολὴν ταύτην, καὶ πῶς πάσας τὰς παραβολὰς γνώσεσθε[^markdq-249]; 14 ὁ σπείρων τὸν λόγον σπείρει. 15 οὗτοι δέ εἰσιν οἱ παρὰ τὴν ὁδόν· ὅπου σπείρεται ὁ λόγος καὶ ὅταν ἀκούσωσιν, εὐθὺς[^markdq-250] ἔρχεται ὁ σατανᾶς καὶ αἴρει τὸν λόγον τὸν ἐσπαρμένον εἰς αὐτούς. 16 καὶ οὗτοί εἰσιν οἱ ἐπὶ τὰ πετρώδη[^markdq-251] σπειρόμενοι, οἳ ὅταν ἀκούσωσιν τὸν λόγον εὐθὺς μετὰ χαρᾶς λαμβάνουσιν αὐτόν, 17 καὶ οὐκ ἔχουσιν ῥίζαν[^markdq-252] ἐν ἑαυτοῖς ἀλλὰ πρόσκαιροί εἰσιν, εἶτα γενομένης θλίψεως[^markdq-253] ἢ διωγμοῦ[^markdq-254] διὰ τὸν λόγον εὐθὺς σκανδαλίζονται. 18 καὶ ἄλλοι εἰσὶν οἱ εἰς τὰς ἀκάνθας[^markdq-255] σπειρόμενοι· οὗτοί εἰσιν οἱ τὸν λόγον ἀκούσαντες, 19 καὶ αἱ μέριμναι[^markdq-256] τοῦ αἰῶνος[^markdq-257] καὶ ἡ ἀπάτη[^markdq-258] τοῦ πλούτου[^markdq-259] καὶ αἱ περὶ τὰ λοιπὰ ἐπιθυμίαι[^markdq-260] εἰσπορευόμεναι[^markdq-261] συμπνίγουσιν[^markdq-262] τὸν λόγον καὶ ἄκαρπος[^markdq-263] γίνεται. 20 καὶ ἐκεῖνοί εἰσιν οἱ ἐπὶ τὴν γῆν τὴν καλὴν σπαρέντες, οἵτινες ἀκούουσιν τὸν λόγον καὶ παραδέχονται[^markdq-264] καὶ καρποφοροῦσιν[^markdq-265] ἓν τριάκοντα καὶ ἓν ἑξήκοντα καὶ ἓν ἑκατόν.
+> 13 Καὶ λέγει αὐτοῖς· οὐκ οἴδατε[^markdq4-18] τὴν παραβολὴν ταύτην, καὶ πῶς πάσας τὰς παραβολὰς γνώσεσθε[^markdq4-19]; 14 ὁ σπείρων τὸν λόγον σπείρει. 15 οὗτοι δέ εἰσιν οἱ παρὰ τὴν ὁδόν· ὅπου σπείρεται ὁ λόγος καὶ ὅταν ἀκούσωσιν, εὐθὺς[^markdq4-20] ἔρχεται ὁ σατανᾶς καὶ αἴρει τὸν λόγον τὸν ἐσπαρμένον εἰς αὐτούς. 16 καὶ οὗτοί εἰσιν οἱ ἐπὶ τὰ πετρώδη[^markdq4-21] σπειρόμενοι, οἳ ὅταν ἀκούσωσιν τὸν λόγον εὐθὺς μετὰ χαρᾶς λαμβάνουσιν αὐτόν, 17 καὶ οὐκ ἔχουσιν ῥίζαν[^markdq4-22] ἐν ἑαυτοῖς ἀλλὰ πρόσκαιροί εἰσιν, εἶτα γενομένης θλίψεως[^markdq4-23] ἢ διωγμοῦ[^markdq4-24] διὰ τὸν λόγον εὐθὺς σκανδαλίζονται. 18 καὶ ἄλλοι εἰσὶν οἱ εἰς τὰς ἀκάνθας[^markdq4-25] σπειρόμενοι· οὗτοί εἰσιν οἱ τὸν λόγον ἀκούσαντες, 19 καὶ αἱ μέριμναι[^markdq4-26] τοῦ αἰῶνος[^markdq4-27] καὶ ἡ ἀπάτη[^markdq4-28] τοῦ πλούτου[^markdq4-29] καὶ αἱ περὶ τὰ λοιπὰ ἐπιθυμίαι[^markdq4-30] εἰσπορευόμεναι[^markdq4-31] συμπνίγουσιν[^markdq4-32] τὸν λόγον καὶ ἄκαρπος[^markdq4-33] γίνεται. 20 καὶ ἐκεῖνοί εἰσιν οἱ ἐπὶ τὴν γῆν τὴν καλὴν σπαρέντες, οἵτινες ἀκούουσιν τὸν λόγον καὶ παραδέχονται[^markdq4-34] καὶ καρποφοροῦσιν[^markdq4-35] ἓν τριάκοντα καὶ ἓν ἑξήκοντα καὶ ἓν ἑκατόν.
 
-[^markdq-248]: εἴδω: i) to see, a) to perceive with the eyes, b) to perceive by any of the senses, c) to perceive, notice, discern, discover, d) to see, e) to experience any state or condition, f) to see i.e. have an interview with, to visit, ii) to know, a) to know of anything, b) to know, i.e. get knowledge of, understand, perceive, c) to have regard for one, cherish, pay attention to
+[^markdq4-18]: εἴδω: i) to see, a) to perceive with the eyes, b) to perceive by any of the senses, c) to perceive, notice, discern, discover, d) to see, e) to experience any state or condition, f) to see i.e. have an interview with, to visit, ii) to know, a) to know of anything, b) to know, i.e. get knowledge of, understand, perceive, c) to have regard for one, cherish, pay attention to
 
-[^markdq-249]: γινώσκω: i) to learn to know, come to know, get a knowledge of perceive, feel, ii) to know, understand, perceive, have knowledge of, iii) sexual intercourse between a man and a woman, iv) to become acquainted with, to know
+[^markdq4-19]: γινώσκω: i) to learn to know, come to know, get a knowledge of perceive, feel, ii) to know, understand, perceive, have knowledge of, iii) sexual intercourse between a man and a woman, iv) to become acquainted with, to know
 
-[^markdq-250]: εὐθέως: straightway, immediately, forthwith
+[^markdq4-20]: εὐθέως: straightway, immediately, forthwith
 
-[^markdq-251]: πετρώδης: rocky, stony, of a ground full of rocks
+[^markdq4-21]: πετρώδης: rocky, stony, of a ground full of rocks
 
-[^markdq-252]: ῥίζα: i) a root, ii) that which like a root springs from a root, a sprout, shoot, iii) metaph. offspring, progeny
+[^markdq4-22]: ῥίζα: i) a root, ii) that which like a root springs from a root, a sprout, shoot, iii) metaph. offspring, progeny
 
-[^markdq-253]: θλῖψις: i) a pressing, pressing together, pressure, ii) metaph. oppression, affliction, tribulation, distress, straits
+[^markdq4-23]: θλῖψις: i) a pressing, pressing together, pressure, ii) metaph. oppression, affliction, tribulation, distress, straits
 
-[^markdq-254]: διωγμός: persecution
+[^markdq4-24]: διωγμός: persecution
 
-[^markdq-255]: ἄκανθα: i) thorn, bramble, ii) bush, brier, a thorny plant
+[^markdq4-25]: ἄκανθα: i) thorn, bramble, ii) bush, brier, a thorny plant
 
-[^markdq-256]: μέριμνα: care, anxiety
+[^markdq4-26]: μέριμνα: care, anxiety
 
-[^markdq-257]: αἰών: i) for ever, an unbroken age, perpetuity of time, eternity, ii) the worlds, universe, iii) period of time, age
+[^markdq4-27]: αἰών: i) for ever, an unbroken age, perpetuity of time, eternity, ii) the worlds, universe, iii) period of time, age
 
-[^markdq-258]: ἀπάτη: deceit, deceitfulness
+[^markdq4-28]: ἀπάτη: deceit, deceitfulness
 
-[^markdq-259]: πλοῦτος: riches, wealth, a) abundance of external possessions, b) fulness, abundance, plenitude, c) a good i.e. that with which one is enriched
+[^markdq4-29]: πλοῦτος: riches, wealth, a) abundance of external possessions, b) fulness, abundance, plenitude, c) a good i.e. that with which one is enriched
 
-[^markdq-260]: ἐπιθυμία: desire, craving, longing, desire for what is forbidden, lust
+[^markdq4-30]: ἐπιθυμία: desire, craving, longing, desire for what is forbidden, lust
 
-[^markdq-261]: εἰσπορεύομαι: i) to go into, enter, ii) metaph. of affections entering the soul
+[^markdq4-31]: εἰσπορεύομαι: i) to go into, enter, ii) metaph. of affections entering the soul
 
-[^markdq-262]: συμπνίγω: to choke utterly, a) metaph. the seed of the divine word sown in the mind, b) to press round or throng one so as almost to suffocate him
+[^markdq4-32]: συμπνίγω: to choke utterly, a) metaph. the seed of the divine word sown in the mind, b) to press round or throng one so as almost to suffocate him
 
-[^markdq-263]: ἄκαρπος: metaph. without fruit, barren, not yielding what it ought to yield
+[^markdq4-33]: ἄκαρπος: metaph. without fruit, barren, not yielding what it ought to yield
 
-[^markdq-264]: παραδέχομαι: i) to receive, take up, take upon one's self, ii) to admit i.e. not to reject, to accept, receive
+[^markdq4-34]: παραδέχομαι: i) to receive, take up, take upon one's self, ii) to admit i.e. not to reject, to accept, receive
 
-[^markdq-265]: καρποφορέω: i) to bear fruit, ii) to bear, bring forth, deeds, iii) to bear fruit of one's self
+[^markdq4-35]: καρποφορέω: i) to bear fruit, ii) to bear, bring forth, deeds, iii) to bear fruit of one's self
 
 ### 記録
 
@@ -450,23 +449,23 @@
 
 -   ルカ19:26 『あなたがたに言うが、おおよそ持っている人には、なお与えられ、持っていない人からは、持っているものまでも取り上げられるであろう。 
 
-> 21 Καὶ ἔλεγεν αὐτοῖς· μήτι[^markdq-266] ἔρχεται ὁ λύχνος[^markdq-267] ἵνα ὑπὸ τὸν μόδιον[^markdq-268] τεθῇ ἢ ὑπὸ τὴν κλίνην[^markdq-269]; οὐχ ἵνα ἐπὶ τὴν λυχνίαν τεθῇ; 22 οὐ γάρ ἐστιν κρυπτὸν[^markdq-270] ἐὰν μὴ ἵνα φανερωθῇ[^markdq-271], οὐδὲ ἐγένετο ἀπόκρυφον ἀλλ' ἵνα ἔλθῃ εἰς φανερόν. 23 εἴ τις ἔχει ὦτα ἀκούειν ἀκουέτω. 24 Καὶ ἔλεγεν αὐτοῖς· βλέπετε τί ἀκούετε. ἐν ᾧ μέτρῳ[^markdq-272] μετρεῖτε μετρηθήσεται ὑμῖν καὶ προστεθήσεται ὑμῖν. 25ὃς γὰρ ἔχει, δοθήσεται αὐτῷ· καὶ ὃς οὐκ ἔχει, καὶ ὃ ἔχει ἀρθήσεται[^markdq-273] ἀπ' αὐτοῦ.
+> 21 Καὶ ἔλεγεν αὐτοῖς· μήτι[^markdq4-36] ἔρχεται ὁ λύχνος[^markdq4-37] ἵνα ὑπὸ τὸν μόδιον[^markdq4-38] τεθῇ ἢ ὑπὸ τὴν κλίνην[^markdq4-39]; οὐχ ἵνα ἐπὶ τὴν λυχνίαν τεθῇ; 22 οὐ γάρ ἐστιν κρυπτὸν[^markdq4-40] ἐὰν μὴ ἵνα φανερωθῇ[^markdq4-41], οὐδὲ ἐγένετο ἀπόκρυφον ἀλλ' ἵνα ἔλθῃ εἰς φανερόν. 23 εἴ τις ἔχει ὦτα ἀκούειν ἀκουέτω. 24 Καὶ ἔλεγεν αὐτοῖς· βλέπετε τί ἀκούετε. ἐν ᾧ μέτρῳ[^markdq4-42] μετρεῖτε μετρηθήσεται ὑμῖν καὶ προστεθήσεται ὑμῖν. 25ὃς γὰρ ἔχει, δοθήσεται αὐτῷ· καὶ ὃς οὐκ ἔχει, καὶ ὃ ἔχει ἀρθήσεται[^markdq4-43] ἀπ' αὐτοῦ.
 
-[^markdq-266]: μήτι: whether, at all, perchance
+[^markdq4-36]: μήτι: whether, at all, perchance
 
-[^markdq-267]: λύχνος: a lamp, candle, that is placed on a stand or candlestick
+[^markdq4-37]: λύχνος: a lamp, candle, that is placed on a stand or candlestick
 
-[^markdq-268]: μόδιος: a dry measure holding 16 sextarii (or 1/6 of the Attic medimnus), about a peck (9 litres)
+[^markdq4-38]: μόδιος: a dry measure holding 16 sextarii (or 1/6 of the Attic medimnus), about a peck (9 litres)
 
-[^markdq-269]: κλίνη: i) a small bed, a couch, ii) a couch to recline on at meals, iii) a couch on which a sick man is carried
+[^markdq4-39]: κλίνη: i) a small bed, a couch, ii) a couch to recline on at meals, iii) a couch on which a sick man is carried
 
-[^markdq-270]: κρυπτός: hidden, concealed, secret
+[^markdq4-40]: κρυπτός: hidden, concealed, secret
 
-[^markdq-271]: φανερόω: to make manifest or visible or known what has been hidden or unknown, to manifest, whether by words, or deeds, or in any other way
+[^markdq4-41]: φανερόω: to make manifest or visible or known what has been hidden or unknown, to manifest, whether by words, or deeds, or in any other way
 
-[^markdq-272]: μέτρον: i) measure, an instrument for measuring, ii) determined extent, portion measured off, measure or limit
+[^markdq4-42]: μέτρον: i) measure, an instrument for measuring, ii) determined extent, portion measured off, measure or limit
 
-[^markdq-273]: αἴρω: i) to raise up, elevate, lift up, ii) to take upon one's self and carry what has been raised up, to bear, iii) to bear away what has been raised, carry off
+[^markdq4-43]: αἴρω: i) to raise up, elevate, lift up, ii) to take upon one's self and carry what has been raised up, to bear, iii) to bear away what has been raised, carry off
 
 ### 記録
 
