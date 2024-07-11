@@ -1,8 +1,5 @@
 # 参考文献 {#references .unnumbered}
 
-::: {#refs}
-:::
-
 1.  地図：[キリスト時代のパレスチナ](https://upload.wikimedia.org/wikipedia/commons/1/1f/JBS1956-B_map11.png) (Wikimedia: 聖書地図 (JBS1956))
 
 2.  地図：Halman Bible Atlas
@@ -24,3 +21,5 @@
     8.  [Jesus' Journey from Galilee to Judea](https://www.seektheoldpaths.com/Maps/110.jpg) \[110\]
 
     9.  [Passion Week in Jerusalem](https://www.seektheoldpaths.com/Maps/113.jpg) \[113\]
+
+3.  十二弟子（使徒）Twelve Disciples (Apostles) \[[pdf](https://icu-hsuzuki.github.io/science/bible/docs/12disciples.pdf)\]
