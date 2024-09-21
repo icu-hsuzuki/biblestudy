@@ -9,6 +9,7 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
+    - questions.qmd
     - aboutmark.qmd
     - markdq.qmd
     - markdq-old.qmd
@@ -21,6 +22,7 @@ book:
     - preparation.qmd
     - tables.qmd
     - references.qmd
+    - essays_on_gospel.qmd
 
 bibliography: references.bib
 
