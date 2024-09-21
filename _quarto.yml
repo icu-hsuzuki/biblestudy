@@ -21,8 +21,8 @@ book:
     - summary.qmd
     - preparation.qmd
     - tables.qmd
-    - references.qmd
     - essays_on_gospel.qmd
+    - references.qmd
 
 bibliography: references.bib
 
