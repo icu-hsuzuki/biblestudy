@@ -2361,7 +2361,7 @@ B. 物語資料
 
 以下において私は、できる限り厳密な史料批判によってイエスの伝承の古層を掘り起こし、これを史料として、この伝承を担った人々ー彼らはいずれにしても庶民層に属するーに視座を据えながら、十字架の死に極まったイエスの振舞に、この時代の歴史、とりわけ社会構造との関わりにおいて接近を試みるであろう。そのためには、まずイエスの時代の歴史的ー宗教史的諸相を全体として把握しておく必要がある。
 
-### II. 時代 
+### II. 時代
 
 #### イエスの誕生と没年
 
@@ -2491,7 +2491,7 @@ B. 物語資料
 
 ### VI. 祈り
 
-### VII. 死 
+### VII. 死
 
 ## イエスとその目撃者たち
 
@@ -2560,6 +2560,7 @@ B. 物語資料
 -   [Early Christian Writings](http://www.earlychristianwritings.com/)
 
     -   [Psalms of Solomon](http://www.earlyjewishwritings.com/psalmssolomon.html)
+    -   [The Testaments of the Twelve Patriarchs](https://www.earlychristianwritings.com/text/patriarchs-charles.html) （十二族長の遺訓）
 
 -   [Perseus Digital Library](https://www.perseus.tufts.edu/hopper/)（タフツ大学 Tufts University）
 
