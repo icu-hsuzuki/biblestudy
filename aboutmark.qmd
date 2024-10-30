@@ -2345,7 +2345,7 @@ B. 物語資料
 
 他方、ヨハネ福音書においてイエスは、十字架を通して天に挙げられた「栄光のキリスト」の「しるし」として描き出されている。そしてここでも、イエスの業はヨハネの解釈に基づく編集を経て再現されている。しかし彼は、幾つかの場合、イエスの業に関する伝承を原型のまま残して、その解釈を、ーヨハネの志向する方向にではあるがー福音書の読者にゆだねている。
 
-（略）
+最後に、トマス福音書には、トマスの思想をイエスに帰している言葉や、共観福音書に並行するイエスの言葉にも、トマスによる編集の手を加えられた部分がかなり多く認められる。しかしこの福音書には、少なくとも形式的には共観福音書の伝承とほとんど異ならない、あるいは、伝承史的にはそれよりも古い段階を示す言葉も保存されているのである。これは、トマスの目的がイエスの言葉の解釈をートマスの志向する方向にー読者に促すことにあるのだが、その解釈がトマスの手を加えなくても可能な場合は、イエスの言葉を伝承のままで提示した結果であろうと思われる。
 
 いずれにしても、イエスの言行を伝承史的研究のみによって確定することは不可能である。伝承は、例えばその原型が復元されえたとしても、イエス自身が自らの言行に関する記録を残していない限り、彼の振舞の、伝承者の振舞を通して行われたロゴス（言語）化であり、その意味で二次的だからである。このことは、特にイエスの言葉伝承に妥当するであろう。
 
@@ -2557,10 +2557,13 @@ B. 物語資料
 
     -   [新日本聖書刊行会](https://www.seisho.or.jp)
 
--   [Early Christian Writings](http://www.earlychristianwritings.com/)
+-   [Early Christian Writings](http://www.earlychristianwritings.com/) by Peter Kirby（年代などにより分類されてリスト）以下は本文テキストへのリンク、トップページからは解説など様々なリンクがある。
 
-    -   [Psalms of Solomon](http://www.earlyjewishwritings.com/psalmssolomon.html)
+    -   [Psalms of Solomon](http://www.earlyjewishwritings.com/psalmssolomon.html)（ソロモンの詩篇）
     -   [The Testaments of the Twelve Patriarchs](https://www.earlychristianwritings.com/text/patriarchs-charles.html) （十二族長の遺訓）
+    -   [The Gospel of Thomas](https://www.earlychristianwritings.com/text/thomas-fifth.html#google_vignette) （トマスによる福音書）コプト語の英訳
+        -   [Gospel of Thomas Commentary](https://www.earlychristianwritings.com/thomas/)
+    -   [Fragments of Papias](https://www.earlychristianwritings.com/text/papias.html)（パピアス断片）英訳
 
 -   [Perseus Digital Library](https://www.perseus.tufts.edu/hopper/)（タフツ大学 Tufts University）
 
