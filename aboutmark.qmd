@@ -2557,11 +2557,12 @@ B. 物語資料
 
     -   [新日本聖書刊行会](https://www.seisho.or.jp)
 
--   [Early Christian Writings](http://www.earlychristianwritings.com/) by Peter Kirby（年代などにより分類されてリスト）以下は本文テキストへのリンク、トップページからは解説など様々なリンクがある。
+-   [Early Christian Writings](http://www.earlychristianwritings.com/) by Peter Kirby（年代などにより分類されてリスト）以下は本文テキストへのリンク、トップページからは解説など様々なリンクがある。下はそのほんの一部であり、この[リンク](https://www.earlychristianwritings.com/index.html)から情報を得て、英訳などを見るのがよい。
 
     -   [Psalms of Solomon](http://www.earlyjewishwritings.com/psalmssolomon.html)（ソロモンの詩篇）
     -   [The Testaments of the Twelve Patriarchs](https://www.earlychristianwritings.com/text/patriarchs-charles.html) （十二族長の遺訓）
-    -   [The Gospel of Thomas](https://www.earlychristianwritings.com/text/thomas-fifth.html#google_vignette) （トマスによる福音書）コプト語の英訳
+    -   [The Gospel of Thomas](https://www.earlychristianwritings.com/thomas.html) （トマスによる福音書）についての情報
+        -   [The Gospel of Thomas](https://www.earlychristianwritings.com/text/thomas-fifth.html#google_vignette) （トマスによる福音書）Berlin Working Group によるコプト語の英訳
         -   [Gospel of Thomas Commentary](https://www.earlychristianwritings.com/thomas/)
     -   [Fragments of Papias](https://www.earlychristianwritings.com/text/papias.html)（パピアス断片）英訳
 
