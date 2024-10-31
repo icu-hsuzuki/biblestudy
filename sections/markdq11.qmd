@@ -2147,11 +2147,11 @@
 
     -   十二族長の遺訓（[Early Christian Writings](https://www.earlychristianwritings.com): [The Testaments of the Twelve Patriarchs](https://www.earlychristianwritings.com/text/patriarchs-charles.html)）
 
-        -   [イッサカル](ref_docs/twelve_partiarchs.qmd#Issachar)の遺訓 （THE TESTAMENT OF ISSACHAR, THE FIFTH SON OF JACOB AND LEAH）5:2：主を愛し、あなたの隣人を愛せよ。貧しき者と弱き者に同情せよ。But love the Lord and your neighbour, Have compassion on the poor and weak.
+        -   [イッサカル](ref_docs/twelve_partriarchs.qmd#Issachar)の遺訓 （THE TESTAMENT OF ISSACHAR, THE FIFTH SON OF JACOB AND LEAH）5:2：主を愛し、あなたの隣人を愛せよ。貧しき者と弱き者に同情せよ。But love the Lord and your neighbour, Have compassion on the poor and weak.
 
-        -   [イッサカル](ref_docs/twelve_partiarchs.qmd#Issachar)の遺訓（THE TESTAMENT OF ISSACHAR, THE FIFTH SON OF JACOB AND LEAH）7:6：わたしは主を愛した、同様に、すべての人々を心を尽くして愛した。I loved the Lord; Likewise also every man with all my heart.
+        -   [イッサカル](ref_docs/twelve_partriarchs.qmd#Issachar)の遺訓（THE TESTAMENT OF ISSACHAR, THE FIFTH SON OF JACOB AND LEAH）7:6：わたしは主を愛した、同様に、すべての人々を心を尽くして愛した。I loved the Lord; Likewise also every man with all my heart.
 
-        -   [ダン](ref_docs/twelve_partiarchs.qmd#Dan)の遺訓（THE TESTAMENT OF DAN, THE SEVENTH SON OF JACOB AND BILHAH.）5:3：あなたの全生涯をかけて主を愛せよ。また、真実の心をもってお互いに愛し合え。Love the Lord through all your life, And one another with a true heart.
+        -   [ダン](ref_docs/twelve_partriarchs.qmd#Dan)の遺訓（THE TESTAMENT OF DAN, THE SEVENTH SON OF JACOB AND BILHAH.）5:3：あなたの全生涯をかけて主を愛せよ。また、真実の心をもってお互いに愛し合え。Love the Lord through all your life, And one another with a true heart.
 
 -   シェマ（聞け）聖句箱（小さな革の小箱）の中に入れ、祈る時に、身につけた。
 
