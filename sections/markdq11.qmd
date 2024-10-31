@@ -2149,7 +2149,7 @@
 
         -   [イッサカル](ref_docs/twelve_patriarchs.qmd#Issachar)の遺訓 （THE TESTAMENT OF ISSACHAR, THE FIFTH SON OF JACOB AND LEAH）5:2：主を愛し、あなたの隣人を愛せよ。貧しき者と弱き者に同情せよ。But love the Lord and your neighbour, Have compassion on the poor and weak.
 
-        -   [イッサカル](ref_docs/twelve_patriarchs.html#Issachar)の遺訓（THE TESTAMENT OF ISSACHAR, THE FIFTH SON OF JACOB AND LEAH）7:6：わたしは主を愛した、同様に、すべての人々を心を尽くして愛した。I loved the Lord; Likewise also every man with all my heart.
+        -   [イッサカル](ref_docs/twelve_patriarchs.qmd#Issachar)の遺訓（THE TESTAMENT OF ISSACHAR, THE FIFTH SON OF JACOB AND LEAH）7:6：わたしは主を愛した、同様に、すべての人々を心を尽くして愛した。I loved the Lord; Likewise also every man with all my heart.
 
         -   [ダン](ref_docs/twelve_patriarchs.qmd#Dan)の遺訓（THE TESTAMENT OF DAN, THE SEVENTH SON OF JACOB AND BILHAH.）5:3：あなたの全生涯をかけて主を愛せよ。また、真実の心をもってお互いに愛し合え。Love the Lord through all your life, And one another with a true heart.
 
@@ -2181,7 +2181,7 @@
 
 -   日時：2024年10月31日午後7時半〜9時半
 
--   出席（対面）X名、参加（遠隔）Y名
+-   出席（対面）3名、参加（遠隔）2名
 
 ### 問いについて
 
