@@ -23,6 +23,7 @@ book:
     - tables.qmd
     - essays_on_gospel.qmd
     - references.qmd
+    - ref_docs/twelve_patriarchs.qmd
 
 bibliography: references.bib
 
