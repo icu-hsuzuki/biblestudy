@@ -23,8 +23,10 @@ book:
     - tables.qmd
     - essays_on_gospel.qmd
     - references.qmd
+  appendices:
+    - ref_docs/thomas.qmd
     - ref_docs/twelve_patriarchs.qmd
-
+ 
 bibliography: references.bib
 
 format:
