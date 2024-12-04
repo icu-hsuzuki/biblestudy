@@ -27,6 +27,7 @@ book:
     - ref_docs/thomas.qmd
     - ref_docs/twelve_patriarchs.qmd
     - ref_docs/papias.qmd
+    - ref_docs/thewarofthejews.qmd
  
 bibliography: references.bib
 
