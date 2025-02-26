@@ -396,7 +396,7 @@ Wikipedia よりも、まとまっていて、読みやすく、本と比較す�
 
 **Perplexity** \[[リンク](https://www.perplexity.ai/search/iesunoshi-dai-nosanhetorinha-t-10H.Ioi6QF.Nz29181OuUA)\]　(2025.2.24)
 
-**Grok 3** \[[リンク](https://x.com/i/grok/share/WmYNN0KByadmw2OVNNSYOLPr9)\] (2025.2.24)
+**Grok 3 beta** \[[リンク](https://x.com/i/grok/share/WmYNN0KByadmw2OVNNSYOLPr9)\] (2025.2.24)
 
 **ChatGPT o3-mini** \[[リンク](https://chatgpt.com/share/67bc6833-4ab0-8005-95c1-6e560a59f736)\] (2025.2.24)
 
