@@ -55,3 +55,4 @@ participants |> drop_na(参加, 登録) |>
   geom_point(aes(登録, 日付)) + 
   labs(title = "参加者数と登録者数（点で表示）", fill = "") 
 ```
+
