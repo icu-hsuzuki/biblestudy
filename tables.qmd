@@ -49,7 +49,7 @@ participants <- read_csv("./data/participants.csv") |>
 #| warning: false
 #| echo: false
 #| fig-width: 8
-#| fig-height: 10
+#| fig-height: 20
 participants |> drop_na(参加, 登録) |>
   ggplot() + geom_col(aes(参加者数, 日付, fill = 参加)) +
   geom_point(aes(登録, 日付)) + 
