@@ -25,6 +25,7 @@ book:
     - references.qmd
   appendices:
     - ref_docs/thomas.qmd
+    - ref_docs/gospel_of_peter.qmd
     - ref_docs/twelve_patriarchs.qmd
     - ref_docs/papias.qmd
     - ref_docs/thewarofthejews.qmd
