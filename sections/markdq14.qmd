@@ -2784,7 +2784,7 @@
 
     -   \[DQ\] 罪状は何ですか。
 
-        -   \[A\] 反乱罪？ ユダヤ人の王であることをみとめ、
+        -   \[A\] 反乱罪？ ユダヤ人の王であることをみとめ、ユダヤ人社会を、混乱させる要因となるもの。
 
         -   ユダヤ人の王（マルコ15:2,9,12）
 
@@ -2796,7 +2796,9 @@
 
     -   16 兵士たちはイエスを、邸宅、すなわち総督官邸の内に連れて行き、全部隊を呼び集めた。
 
-    -   \[A\] 総督官邸は邸宅とよばれ、大きな公務用の家があったということであろう。全部隊は、どのくらいの数か不明。
+    -   \[A\] 総督官邸は邸宅とよばれ、大きな公務用の家があったということであろう。全部隊（ὅλην τὴν σπεῖραν）は、どのくらいの数か不明。
+
+        -   \[参考\] スペイラ（σπεῖρα: a military cohort; the tenth part of legion, i. the tenth part of legion, ii. if auxiliaries either 500 or 1000, iii. a maniple, or the thirtieth part of a legion）レギオンの10分の1とされる。レギオンは、4000人ないし、6000人の軍団。
 
 3.  イエスは、誰に、どのようにされますか。(17-19)
 
@@ -2806,9 +2808,9 @@
 
     -   \[A\] ローマ兵だと思われる。
 
-        -   「紫の衣」「いばらの冠」は王の嘲笑なのかもしれない。それゆえ、
+        -   「紫の衣」（王の着る衣）「いばらの冠」は王の嘲笑なのかもしれない。それゆえ、
 
-        -   「ユダヤ人の王、ばんざい」と言って敬礼をしはじめた。（18）となるのだろう。
+        -   「ユダヤ人の王、ばんざい」（アヴェ・カエサル「カエサルばんざい」をもじったもの）と言って敬礼をしはじめた。（18）となるのだろう。
 
         -   その形式が、「葦の棒でその頭をたたき、つばきをかけ、ひざまずいて拝んだりした。」
 
@@ -2932,6 +2934,8 @@
     9.  ヨハネは、この箇所を通して何を伝えているのでしょうか。What does John tell us?
 
 ### 参照
+
+-   悲しみの道（via dolorosa: The Via Dolorosa, meaning "Sorrowful Way" in Latin, is a route in the Old City of Jerusalem that Christians believe Jesus walked on his way to the crucifixion. It's a path of great religious significance, and pilgrims walk it, especially on Good Friday, marking the Stations of the Cross.）\[[リンク](https://www.touristisrael.com/via-dolorosa/28670/)\]
 
 ### 記録
 
