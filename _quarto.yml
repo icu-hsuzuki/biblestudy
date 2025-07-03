@@ -29,6 +29,7 @@ book:
     - ref_docs/twelve_patriarchs.qmd
     - ref_docs/papias.qmd
     - ref_docs/thewarofthejews.qmd
+    - ref_docs/signs.qmd
  
 bibliography: references.bib
 
