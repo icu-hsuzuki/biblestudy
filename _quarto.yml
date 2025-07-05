@@ -24,12 +24,14 @@ book:
     - essays_on_gospel.qmd
     - references.qmd
   appendices:
+    - ref_docs/passion.qmd
+    - ref_docs/q.qmd
+    - ref_docs/signs.qmd
     - ref_docs/thomas.qmd
     - ref_docs/gospel_of_peter.qmd
     - ref_docs/twelve_patriarchs.qmd
     - ref_docs/papias.qmd
     - ref_docs/thewarofthejews.qmd
-    - ref_docs/signs.qmd
  
 bibliography: references.bib
 

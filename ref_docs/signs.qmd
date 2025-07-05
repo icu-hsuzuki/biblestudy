@@ -6,11 +6,11 @@
 >
 > しるしの福音の根拠についての記述は、上記しるしの福音のページに含まれる、Information on the Signs Gospel（しるし福音に関する情報）を、Google Chrome の翻訳機能を使って日本語化したもの（2025.7.3）をもとに編集したものです。
 
-### アンドリュー・バーンハードによるフォートナの復元による英語翻訳からの和訳
+## アンドリュー・バーンハードによるフォートナの復元による英語翻訳からの和訳
 
 英文には、聖書協会口語訳をあて、英文で斜体になっている部分も含め、修正はせず、節をそのまま挿入した。
 
-#### ヨハネ1章
+### ヨハネ1章
 
 \[6\] There was a man sent from God, whose name was John.
 
@@ -120,7 +120,7 @@ Philip said to him, "Come and see."
 
 ナタナエルは答えた、「先生、あなたは神の子です。あなたはイスラエルの王です」。
 
-#### ヨハネ2章
+### ヨハネ2章
 
 \[1\] There was a wedding in Cana, and the mother of Jesus was there.
 
@@ -162,7 +162,7 @@ Philip said to him, "Come and see."
 
 そののち、イエスは、その母、兄弟たち、弟子たちと一緒に、カペナウムに下って、幾日かそこにとどまられた。
 
-#### ヨハネ4章
+### ヨハネ4章
 
 \[46\] Now there was a royal official whose son lay ill in Capernaum.
 
@@ -196,7 +196,7 @@ The man started on his way.
 
 これは、イエスがユダヤからガリラヤにきてなされた第二のしるしである。
 
-#### ヨハネ21章
+### ヨハネ21章
 
 \[2\] Gathered there together were Simon Peter, Thomas called the Twin, Nathanael of Cana, the sons of Zebedee.
 
@@ -242,7 +242,7 @@ So they cast it, and now they were not able to haul it in because there were so 
 
 イエスが死人の中からよみがえったのち、弟子たちにあらわれたのは、これで既に三度目である。
 
-#### ヨハネ6章
+### ヨハネ6章
 
 \[1\] After this Jesus went to the other side of the Sea of Tiberias.
 
@@ -312,7 +312,7 @@ So they cast it, and now they were not able to haul it in because there were so 
 
 そこで、彼らは喜んでイエスを舟に迎えようとした。すると舟は、すぐ、彼らが行こうとしていた地に着いた。
 
-#### ヨハネ11章
+### ヨハネ11章
 
 \[1\] Now a certain Mary;
 
@@ -366,7 +366,7 @@ They said to him, "Lord, come and see."
 
 マリヤのところにきて、イエスのなさったことを見た多くのユダヤ人たちは、イエスを信じた。
 
-#### ヨハネ9章
+### ヨハネ9章
 
 \[1\] As he walked along, he saw a man blind from birth.
 
@@ -384,7 +384,7 @@ They said to him, "Lord, come and see."
 
 近所の人々や、彼がもと、こじきであったのを見知っていた人々が言った、「この人は、すわってこじきをしていた者ではないか」。
 
-#### ヨハネ5章
+### ヨハネ5章
 
 \[2\] Now in Jerusalem by the Sheep Gate there is a pool, called in Hebrew Beth-zatha, which has five porticoes.
 
@@ -414,7 +414,7 @@ They said to him, "Lord, come and see."
 
 すると、この人はすぐにいやされ、床をとりあげて歩いて行った。その日は安息日であった。
 
-#### ヨハネ2章
+### ヨハネ2章
 
 \[14\] In the temple *Jesus* found people selling cattle, sheep, and doves, and the money changers seated at their tables.
 
@@ -436,7 +436,7 @@ They said to him, "Lord, come and see."
 
 イエスは彼らに答えて言われた、「この神殿をこわしたら、わたしは三日のうちに、それを起すであろう」。
 
-#### ヨハネ11章
+### ヨハネ11章
 
 \[47\] So the chief priests called a meeting of the council, and said, "This man is performing many signs.
 
@@ -458,7 +458,7 @@ They said to him, "Lord, come and see."
 
 彼らはこの日からイエスを殺そうと相談した。
 
-#### ヨハネ12章
+### ヨハネ12章
 
 \[37\] Although he had performed so many signs, they did not believe in him.
 
@@ -520,7 +520,7 @@ They said to him, "Lord, come and see."
 
 「シオンの娘よ、恐れるな。見よ、あなたの王が／ろばの子に乗っておいでになる」／と書いてあるとおりであった。
 
-#### ヨハネ13章
+### ヨハネ13章
 
 \[1\] Now before the festival of the Passover, Jesus knew that his hour had come to depart from this world and go to the Father. Having loved his own who were in the world, he loved them to the end.
 
@@ -606,7 +606,7 @@ Jesus answered, "Unless I wash you, you have no share with me."
 
 よくよくあなたがたに言っておく。わたしがつかわす者を受けいれる者は、わたしを受けいれるのである。わたしを受けいれる者は、わたしをつかわされたかたを、受けいれるのである」。
 
-#### ヨハネ18章
+### ヨハネ18章
 
 \[1\] Jesus went out with his disciples across the Kidron valley to a place where there was a garden.
 
@@ -732,7 +732,7 @@ He denied it and said, "I am not."
 
 すると彼らは、また叫んで「その人ではなく、バラバを」と言った。このバラバは強盗であった。
 
-#### ヨハネ19章
+### ヨハネ19章
 
 \[1\] Then Pilate took Jesus and had him flogged.
 
@@ -846,7 +846,7 @@ So they took Jesus.
 
 その日はユダヤ人の準備の日であったので、その墓が近くにあったため、イエスをそこに納めた。
 
-#### ヨハネ20章
+### ヨハネ20章
 
 \[1\] Early on the first day of the week, Mary Magdalene came to the tomb and saw that the stone had been removed from the tomb.
 
@@ -916,9 +916,9 @@ So they took Jesus.
 
 しかし、これらのことを書いたのは、あなたがたがイエスは神の子キリストであると信じるためであり、また、そう信じて、イエスの名によって命を得るためである。
 
-### 参考：しるし福音に関する情報
+## 参考：しるし福音に関する情報
 
-Google Chrome による和訳（2025.7.3)）
+Google Chrome による和訳（2025.7.3）
 
 D・ムーディー・スミスは（『ヨハネ福音書』 63ページ）次のように述べている。「現在では、福音書記者が共観福音書とは実質的に独立した奇跡の伝承や文献を参考にしていたことは広く認められている。共観福音書のいずれか、あるいは複数の福音書について彼が知っていたかどうかは関係ない。ルドルフ・ブルトマンによる画期的な解説以来、奇跡の源泉（セミア）という仮説は広く受け入れられている。」
 
